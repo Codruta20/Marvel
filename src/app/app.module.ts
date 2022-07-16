@@ -10,9 +10,10 @@ import { MatMenuModule } from '@angular/material/menu';
 
 import { CarouselModule } from 'ngx-bootstrap/carousel';
 import { NavbarLogoComponent } from './navbar-logo/navbar-logo.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
-  declarations: [AppComponent, NavbarComponent, CarouselComponent, NavbarLogoComponent],
+  declarations: [AppComponent, NavbarComponent, CarouselComponent, NavbarLogoComponent, FooterComponent],
   imports: [
     BrowserModule,
     NgbModule,
