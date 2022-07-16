@@ -1,0 +1,14 @@
+<div class="container-carousel">
+  <carousel
+    [itemsPerSlide]="itemsPerSlide"
+    [singleSlideOffset]="singleSlideOffset"
+    [noWrap]="noWrap"
+    [interval]="cycleInterval"
+    [startFromIndex]="0"
+  >
+    <slide *ngFor="let slide of slides; let index = index" class="mx-auto">
+      <img [src]="slide.image" class="img-fluid" />
+      <div class="carousel-caption"></div>
+    </slide>
+  </carousel>
+</div>
