@@ -9,9 +9,10 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatMenuModule } from '@angular/material/menu';
 
 import { CarouselModule } from 'ngx-bootstrap/carousel';
+import { NavbarLogoComponent } from './navbar-logo/navbar-logo.component';
 
 @NgModule({
-  declarations: [AppComponent, NavbarComponent, CarouselComponent],
+  declarations: [AppComponent, NavbarComponent, CarouselComponent, NavbarLogoComponent],
   imports: [
     BrowserModule,
     NgbModule,
