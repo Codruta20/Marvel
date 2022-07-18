@@ -1,0 +1,12 @@
+<div class="container-cards">
+  <div class="row row-cols-1 row-cols-md-5 g-4">
+    <div
+      *ngFor="let character of characters"
+      routerLink="/character-details"
+      [queryParams]="{ name: character.name }"
+      class="col"
+    >
+      <app-card [item]="character"></app-card>
+    </div>
+  </div>
+</div>

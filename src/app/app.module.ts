@@ -11,9 +11,13 @@ import { MatMenuModule } from '@angular/material/menu';
 import { CarouselModule } from 'ngx-bootstrap/carousel';
 import { NavbarLogoComponent } from './navbar-logo/navbar-logo.component';
 import { FooterComponent } from './footer/footer.component';
+import { CardComponent } from './card/card.component';
+import { CharactersComponent } from './characters/characters.component';
+import { AppRoutingModule } from './app-routing.module';
+import { CharacterDetailsComponent } from './character-details/character-details.component';
 
 @NgModule({
-  declarations: [AppComponent, NavbarComponent, CarouselComponent, NavbarLogoComponent, FooterComponent],
+  declarations: [AppComponent, NavbarComponent, CarouselComponent, NavbarLogoComponent, FooterComponent, CardComponent, CharactersComponent, CharacterDetailsComponent],
   imports: [
     BrowserModule,
     NgbModule,
@@ -21,6 +25,7 @@ import { FooterComponent } from './footer/footer.component';
     MatMenuModule,
     NgbModule,
     CarouselModule,
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent, CarouselComponent],

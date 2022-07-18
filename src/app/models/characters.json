@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {
+      "name": "Captain America",
+      "image": "./assets/Characters/Captain America.JPG"
+    },
+    {
+      "name": "Doctor Strange",
+      "image": "./assets/Characters/Doctor Strange.JPG"
+    },
+    {
+      "name": "Spider-Man",
+      "image": "./assets/Characters/Spider-Man.JPG"
+    },
+    {
+      "name": "Wanda Maximoff",
+      "image": "./assets/Characters/Wanda Maximoff.JPG"
+    },
+    {
+      "name": "Black Widow",
+      "image": "./assets/Characters/Black Widow.JPG"
+    },
+    {
+      "name": "Loki",
+      "image": "./assets/Characters/Loki.JPG"
+    },
+    {
+      "name": "Thor",
+      "image": "./assets/Characters/Thor.JPG"
+    },
+    {
+      "name": "Iron Man",
+      "image": "./assets/Characters/Iron Man.JPG"
+    },
+    {
+      "name": "Hawkeye",
+      "image": "./assets/Characters/Hawkeye.JPG"
+    },
+    {
+      "name": "Hulk",
+      "image": "./assets/Characters/Hulk.JPG"
+    }
+  ]
+}
