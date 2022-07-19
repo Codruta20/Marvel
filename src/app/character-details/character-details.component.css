@@ -1,0 +1,17 @@
+img {
+  width: 300px;
+}
+
+.details-box {
+  background: #f9f9f9;
+  color: #000;
+  font-size: 90%;
+  line-height: 1.1em;
+  float: right;
+  clear: right;
+  margin: 0 0 0.5em 1em;
+  width: 300px;
+  border: 1px solid #aaa;
+  padding: 0.1em;
+  border-spacing: 0;
+}

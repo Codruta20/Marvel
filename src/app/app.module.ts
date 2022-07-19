@@ -15,9 +15,10 @@ import { CardComponent } from './card/card.component';
 import { CharactersComponent } from './characters/characters.component';
 import { AppRoutingModule } from './app-routing.module';
 import { CharacterDetailsComponent } from './character-details/character-details.component';
+import { MoviesComponent } from './movies/movies.component';
 
 @NgModule({
-  declarations: [AppComponent, NavbarComponent, CarouselComponent, NavbarLogoComponent, FooterComponent, CardComponent, CharactersComponent, CharacterDetailsComponent],
+  declarations: [AppComponent, NavbarComponent, CarouselComponent, NavbarLogoComponent, FooterComponent, CardComponent, CharactersComponent, CharacterDetailsComponent, MoviesComponent],
   imports: [
     BrowserModule,
     NgbModule,

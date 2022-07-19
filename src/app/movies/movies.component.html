@@ -1,0 +1,12 @@
+<div class="container-cards">
+  <div class="row row-cols-1 row-cols-md-4 g-4">
+    <div
+      *ngFor="let movie of movies"
+      routerLink="/movie-details"
+      [queryParams]="{ name: movie.name }"
+      class="col"
+    >
+      <app-card [item]="movie"></app-card>
+    </div>
+  </div>
+</div>

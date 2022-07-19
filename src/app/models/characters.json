@@ -2,7 +2,9 @@
   "characters": [
     {
       "name": "Captain America",
-      "image": "./assets/Characters/Captain America.JPG"
+      "image": "./assets/Characters/Captain America.JPG",
+      "realName": "Steven Rogers",
+      "currentAlias": "Captain America"
     },
     {
       "name": "Doctor Strange",
