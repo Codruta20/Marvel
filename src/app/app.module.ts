@@ -16,9 +16,11 @@ import { CharactersComponent } from './characters/characters.component';
 import { AppRoutingModule } from './app-routing.module';
 import { CharacterDetailsComponent } from './character-details/character-details.component';
 import { MoviesComponent } from './movies/movies.component';
+import { ComicsComponent } from './comics/comics.component';
+import { TvShowsComponent } from './tv-shows/tv-shows.component';
 
 @NgModule({
-  declarations: [AppComponent, NavbarComponent, CarouselComponent, NavbarLogoComponent, FooterComponent, CardComponent, CharactersComponent, CharacterDetailsComponent, MoviesComponent],
+  declarations: [AppComponent, NavbarComponent, CarouselComponent, NavbarLogoComponent, FooterComponent, CardComponent, CharactersComponent, CharacterDetailsComponent, MoviesComponent, ComicsComponent, TvShowsComponent],
   imports: [
     BrowserModule,
     NgbModule,

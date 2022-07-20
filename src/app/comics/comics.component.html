@@ -1,0 +1,12 @@
+<div class="container-cards">
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div
+      *ngFor="let comic of comics"
+      routerLink=""
+      [queryParams]="{ name: comic.name }"
+      class="col"
+    >
+      <app-card [item]="comic"></app-card>
+    </div>
+  </div>
+</div>

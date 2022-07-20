@@ -1,0 +1,48 @@
+{
+  "Vision": [
+    {
+      "name": "Vision #1",
+      "image": "./assets/Comics/Vision/Vision #1.jpg"
+    },
+    {
+      "name": "Vision #2",
+      "image": "./assets/Comics/Vision/Vision #2.jpg"
+    },
+    {
+      "name": "Vision #3",
+      "image": "./assets/Comics/Vision/Vision #3.jpg"
+    }
+  ],
+  "Moon Knight": [
+    {
+      "name": "Moon Knight #1",
+      "image": "./assets/Comics/Moon Knight/Moon Knight #1.jpg"
+    },
+    {
+      "name": "Moon Knight #2",
+      "image": "./assets/Comics/Moon Knight/Moon Knight #2.jpg"
+    },
+    {
+      "name": "Moon Knight #3",
+      "image": "./assets/Comics/Moon Knight/Moon Knight #3.jpg"
+    },
+    {
+      "name": "Moon Knight #4",
+      "image": "./assets/Comics/Moon Knight/Moon Knight #4.jpg"
+    }
+  ],
+  "Amazing X-Men": [
+    {
+      "name": "Amazing X-Men",
+      "image": "./assets/Comics/Amazing X-Men/Amazing X-Men #1.jpg"
+    },
+    {
+      "name": "Amazing X-Men",
+      "image": "./assets/Comics/Amazing X-Men/Amazing X-Men #2.jpg"
+    },
+    {
+      "name": "Amazing X-Men",
+      "image": "./assets/Comics/Amazing X-Men/Amazing X-Men #3.jpg"
+    }
+  ]
+}

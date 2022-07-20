@@ -1,0 +1,28 @@
+{
+  "tvShows": [
+    {
+      "name": "WandaVision",
+      "image": "./assets/TV Shows/WandaVision.jpg"
+    },
+    {
+      "name": "The Falcon and The Winter Soldier",
+      "image": "./assets/TV Shows/The Falcon and The Winter Soldier.jpg"
+    },
+    {
+      "name": "Loki",
+      "image": "./assets/TV Shows/Loki.jpg"
+    },
+    {
+      "name": "Moon Knight",
+      "image": "./assets/TV Shows/Moon Knight.jpg"
+    },
+    {
+      "name": "Hawkeye",
+      "image": "./assets/TV Shows/Hawkeye.jpg"
+    },
+    {
+      "name": "What If...?",
+      "image": "./assets/TV Shows/What If.jpg"
+    }
+  ]
+}

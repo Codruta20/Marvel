@@ -1,0 +1,16 @@
+{
+  "comics": [
+    {
+      "name": "Vision",
+      "image": "./assets/Comics/Vision/Vision.jpg"
+    },
+    {
+      "name": "Moon Knight",
+      "image": "./assets/Comics/Moon Knight/Moon Knight.jpg"
+    },
+    {
+      "name": "Amazing X-Men",
+      "image": "./assets/Comics/Amazing X-Men/Amazing X-Men.jpg"
+    }
+  ]
+}
