@@ -7,6 +7,7 @@ import { CharacterDetailsComponent } from './character-details/character-details
 import { MoviesComponent } from './movies/movies.component';
 import { TvShowsComponent } from './tv-shows/tv-shows.component';
 import { ComicsComponent } from './comics/comics.component';
+import { ComicsListComponent } from './comics-list/comics-list.component';
 
 const routes: Routes = [
   { path: 'carousel', component: CarouselComponent },
@@ -15,6 +16,7 @@ const routes: Routes = [
   { path: 'movies', component: MoviesComponent },
   { path: 'tv-shows', component: TvShowsComponent },
   { path: 'comics', component: ComicsComponent },
+  { path: 'comics-list', component: ComicsListComponent },
 ];
 
 @NgModule({

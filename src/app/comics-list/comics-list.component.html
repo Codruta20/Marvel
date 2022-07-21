@@ -1,0 +1,11 @@
+<div class="container-cards">
+  <div class="row row-cols-1 row-cols-md-5 g-4">
+    <div
+      *ngFor="let comicNr of comicsList"
+      [queryParams]="{ name: comicNr.name }"
+      class="col"
+    >
+      <app-card [item]="comicNr"></app-card>
+    </div>
+  </div>
+</div>

@@ -2,7 +2,7 @@
   <div class="row row-cols-1 row-cols-md-3 g-4">
     <div
       *ngFor="let comic of comics"
-      routerLink=""
+      routerLink="/comics-list"
       [queryParams]="{ name: comic.name }"
       class="col"
     >

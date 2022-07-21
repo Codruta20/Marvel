@@ -18,9 +18,10 @@ import { CharacterDetailsComponent } from './character-details/character-details
 import { MoviesComponent } from './movies/movies.component';
 import { ComicsComponent } from './comics/comics.component';
 import { TvShowsComponent } from './tv-shows/tv-shows.component';
+import { ComicsListComponent } from './comics-list/comics-list.component';
 
 @NgModule({
-  declarations: [AppComponent, NavbarComponent, CarouselComponent, NavbarLogoComponent, FooterComponent, CardComponent, CharactersComponent, CharacterDetailsComponent, MoviesComponent, ComicsComponent, TvShowsComponent],
+  declarations: [AppComponent, NavbarComponent, CarouselComponent, NavbarLogoComponent, FooterComponent, CardComponent, CharactersComponent, CharacterDetailsComponent, MoviesComponent, ComicsComponent, TvShowsComponent, ComicsListComponent],
   imports: [
     BrowserModule,
     NgbModule,
