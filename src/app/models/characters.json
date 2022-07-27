@@ -3,44 +3,363 @@
     {
       "name": "Captain America",
       "image": "./assets/Characters/Captain America.JPG",
-      "realName": "Steven Rogers",
-      "currentAlias": "Captain America"
+      "imageLarge": "./assets/Characters/Captain America large.jpg",
+      "shortDescription": "Recipient of the Super Soldier serum, World War II hero Steve Rogers fights for American ideals as one of the world’s mightiest heroes and the leader of the Avengers.",
+      "description": [
+        [
+          "4-F Forever?",
+          "Envious of his friend Bucky Barnes’ military enlistment, and undeterred by his own multiple rejections by the U.S. Army, physical weakling Steve Rogers made one more attempt to join the march of men to fight for their country in the dark days of World War II. Rogers’ valiant wish to fight bullies wherever they were grabbed the attention of scientist Dr. Abraham Erskine, and he handpicked the idealistic young man for the Army’s Super-Soldier program under his supervision.",
+          "Though Rogers learned of Erskine’s disastrous previous attempts to realize a super-soldier, Germany’s so-called “Red Skull,” he braved the process and emerged from it a new man. With a powerful body and heightened speed and reflexes, Rogers faced his first challenge when forced to chase down Dr. Erskine’s assassin immediately following the experiment. In doing so, he also learned of the involvement of Hydra, the Nazi science division, in the doctor’s murder.",
+          "The Army moved swiftly to create a colorful, star-spangled persona for Steve Rogers they called “Captain America,” and put him on a tour to sell war bonds. Chafing at what he felt was inaction, Rogers jumped at the chance to join the real fighting when he received news of the capture of his friend Barnes’ army division and rushed to rescue the soldiers. Upon the successful completion of the unplanned mission—and a brief meeting with the Red Skull himself—Rogers determined his path as a one-man fighting force."
+        ],
+        [
+          "The Right Tools",
+          "As Captain America, Steve Rogers carries a nearly indestructible shield fashioned from the rare Wakandan metal known as vibranium. Designed and crafted by genius inventor Howard Stark during World War II, the shield is a perfectly balanced instrument capable of withstanding intense stress and damage, yet also able to be thrown as an offensive weapon that rebounds back to its owner. Rogers maintains the shield as an almost constant companion after it was recovered from the wreckage of the Red Skull’s airplane, as it has become a symbol of strength to all those who recognize Captain America as the country’s defender.",
+          "Rogers is also well-versed in the use of firearms, though he rarely carries or uses them in modern times. His famous Captain America suit and helmet have been updated more than once since the 1940s, and offers him some protection against the elements and enemies alike."
+        ],
+        [
+          "Axis of Evil",
+          "Steve Rogers’ first real enemy took the form of Johann Schmidt, a German scientist and wartime leader of the Nazi science division, Hydra. Schmidt became known as the Red Skull after a failed attempt to augment himself using Dr. Erskine’s super-soldier serum devolved his features into a crimson, skull-like countenance. His obsession with power led him to gain possession of the Tesseract, an otherworldly power source of unparalleled energy, and split off of Hydra from Hitler’s forces. The Red Skull met his match, though, in Captain America. The hero dogged the villain throughout the war until Schmidt’s apparent demise in his own aircraft high above the North Atlantic.",
+          "Arnim Zola, a scientist under the Red Skull’s command, managed to survive the war by supposedly allying himself with the allies and the newly created S.H.I.E.L.D.; but in reality, he kept the dream of Hydra alive all the while. When his own death approached, Zola transferred his consciousness into a S.H.I.E.L.D. computer to continue to be a thorn in Captain America’s side in the present.",
+          "Other modern-day menaces for Steve Rogers include Asgardian god of mischief Loki, mercenary and martial artist Georges Batroc, and weapons dealer Brock Rumlow, AKA Crossbones.",
+          "Captain America has also come face to face with the fearsome threat of Thanos, doing all he can to stop the Titan in his quest to end half the life in the universe."
+        ]
+      ]
     },
     {
       "name": "Doctor Strange",
-      "image": "./assets/Characters/Doctor Strange.JPG"
+      "image": "./assets/Characters/Doctor Strange.JPG",
+      "imageLarge": "./assets/Characters/Doctor Strange large.jpg",
+      "shortDescription": "Formerly a renowned surgeon, Doctor Stephen Strange now serves as the Sorcerer Supreme—Earth’s foremost protector against magical and mystical threats.",
+      "description": [
+        [
+          "Occult Origins",
+          "Vain, egotistic surgeon Stephen Strange lost the use of his hands in a horrific auto accident caused by his own recklessness. In turn, he lost his fortune through a series of costly, complicated and experimental surgeries and therapies in an attempt to save his livelihood. In the end, destitute and desperate, he sought a cure far off the beaten path of modern medicine.",
+          "In Nepal, after being saved from muggers by the powerful sorcerer Mordo, Strange met the person who had taught Mordo—Earth’s Sorcerer Supreme, the Ancient One, who held many mysteries of the Old World, including the potential to heal Strange’s hands. The Ancient One refused to guide Strange through the process until he relinquished his selfishness and opened his mind to a higher truth. Having done so, the doctor began to learn of the Multiverse and the ancient science of magic, as well as forbidden knowledge the Ancient One was not inclined to share."
+        ],
+        [
+          "Tools of the Trade",
+          "A Master of the Mystic Arts, Doctor Strange has phenomenally powerful magical abilities that enable him to skillfully conjure myriad spells. Strange has been able to use his spells to bind opponents and create complex shields and barriers, among many other uses for both defense and attack. Strange is also adept at astral projection, sending his astral self away from his body and allowing him to observe events without the knowledge of those present.",
+          "Strange discovers that certain artifacts can bolster magical spells and extend their benefits. At the New York Sanctum, he is adopted by the Cloak of Levitation, a seemingly sentient cape that not only protects him, but also fights for him. The doctor also makes use of Sling Rings to create portals to cross great distances and to enter other realms.",
+          "Arguably, the Eye of Agamotto provides the greatest source of power to Strange. In truth the Infinity Stone known as the Time Stone, the Eye possesses the incalculable ability to control time itself. With it, Strange can alter time around objects, locations or other beings, moving forward and backward through their existence. It can also be used to trap enemies in time loops, as well as giving Strange the ability to look forward into potential futures."
+        ],
+        [
+          "The Gentle Art of Making Enemies",
+          "Strange accelerates his mystical learning by mastering the use of his astral form, but as he dips deeper into magic, he encounters Kaecilius, a former student of the Ancient One and a disciple of Dormammu, a powerful entity from the Dark Dimension. Though still a relative novice, Strange opposes Kaecilius and his followers when they reveal their plans to bring Dormammu to Earth for utter destruction. At this same time, Strange also learns of Earth’s magical hierarchy, including a trio of Sanctums placed around the globe and overseen by Masters to protect the planet from magical threats.",
+          "Later, Thanos and his mission to acquire all six Infinity Stones poses a direct threat to Strange and the Time Stone in his possession, putting Strange into conflict with Thanos’ followers Ebony Maw and Cull Obsidian as well."
+        ],
+        [
+          "Seeking Aid",
+          "In his struggle with Kaecilius and Dormammu, Strange finds himself aided by Mordo, another accomplished student of the Ancient One, and Wong, a Master who watched over the Ancient One’s library in Nepal. Mordo proves himself a staunch ally until he witnesses his teacher’s use of magic she herself had forbidden and loses faith in her guidance. After Strange’s defeat of Dormammu, Wong travels with him to a Sanctum in New York City to stand at his side for the uncertain times ahead.",
+          "The Ancient One falls due to the treachery of Kaecilius, and though she wielded dark magic to further the cause of good, she dies urging Stephen Strange to continue his magical studies and become a champion for Earth.",
+          "Doctor Christine Palmer and Strange once dated, and she offers him assistance and comfort in the wake of his accident, only to be rejected by him at his darkest point. He does care for and trust her, as later, Strange seeks her medical expertise when he himself—and later the Ancient One—are injured during his battles. He also reveals his magical abilities to her and apologizes for how he’d once acted.",
+          "Some dueling egos aside, in the stand against Thanos, Strange finds support and help in Tony Stark AKA Iron Man, Bruce Banner, and Peter Parker AKA Spider-Man. Strange also fights alongside Guardians of the Galaxy members Star-Lord, Drax, Mantis, and their enemy turned ally, Nebula."
+        ]
+      ]
     },
     {
       "name": "Spider-Man",
-      "image": "./assets/Characters/Spider-Man.JPG"
+      "image": "./assets/Characters/Spider-Man.JPG",
+      "imageLarge": "./assets/Characters/Spider-Man large.jpg",
+      "shortDescription": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+      "description": [
+        [
+          "Along Came a Spider",
+          "A bite from a spider somehow granted teenager Peter Parker its arachnid abilities and instead of using them for personal gain, he decided to help others with them. An orphan living with his aunt, May Parker, the boy chose to wear a mask while fighting crime so as not to burden her with his actions.",
+          "Calling himself Spider-Man and sporting a pair of web-shooting devices he’d constructed, Parker wound up in internet videos which attracted the attention of Tony Stark. The billionaire industrialist deduced Spider-Man’s secret identity and approached Parker at his and May’s home in Queens, New York with a request for aid from the hero in an upcoming confrontation with Captain America and a group of other rogue Avengers and associates. Parker was initially hesitant to even admit his secret career as Spider-Man, but the thrill of adventure and Stark’s talk of responsibility drew him in and he accepted the invitation, as well as a new, high-tech costume and web-shooters."
+        ],
+        [
+          "Does Whatever a Spider Can",
+          "Peter Parker’s gifts from the spider bite include enhanced strength, stamina, and agility, as well as the ability to cling to nearly any surface by his hands and feet, and an internal “alarm” of sorts that warns him of impending danger. When in costume he becomes a figure in motion, leaping and jumping about with a steady stream of wisecracks.",
+          "The Spider-Man suit designed by Tony Stark includes wrist-worn web-shooters (adapted from Peter’s own invention) that emit lines of synthetic “webbing” capable of supporting great weight with a high-degree of holding power. In addition, the suit provides various optical powers, a voice-changer, a drone tracking device, and some protection against outside elements. When not in use, the suit appears as loose, thin cloth, but when donned, it adheres tightly to the body and stretches easily to almost any movement by the wearer.",
+          "Recently, Parker acquires a specialized suit of armor from Stark that features many qualities of the inventor’s own Iron Man suits, including enhanced protective layering, optics, internal air supply, along with a set of four spider-like extra “arms” that answer to the teenager’s mental commands."
+        ],
+        [
+          "To Squash a Spider",
+          "Spider-Man has yet to attract a sizable Rogues Gallery, but his first real Super Villain adversary is Adrian Toomes, the Vulture.",
+          "Over the course of Spider-Man’s interactions with the Vulture, he advanced from a nuisance in Toomes’ eyes to a true obstruction in the man’s schemes. Toomes also perhaps saw a bit of himself in Spider-Man, albeit at a younger age. Unfortunately, the Vulture discovered his foe’s secret identity and was able to initially warn Parker off with threats toward his family and friends. But, the young man’s sense of responsibility and justice outweighed any fear and he did everything within his power to ensure that Toomes never flew again. Now in prison, the Vulture still harbors Spider-Man’s secret, though he had decided to keep that to himself as an apparent sign of respect towards his enemy.",
+          "In addition to the Vulture himself, two of his associates may also still cause trouble for Spider-Man: Herman Schultz, AKA the Shocker, who wields a powerful gauntlet inherited from his late colleague, Jackson Brice, and Mac Gargan, a dangerous criminal who was injured in a confrontation with Spider-Man. Both men have been incarcerated, but Gargan in particular seems eager to enact his revenge on New York’s young champion.",
+          "When Thanos made his play for the Infinity Stones, Spider-Man, coming to Iron Man’s aid, placed himself in direct opposition to both Thanos and those who serve him."
+        ],
+        [
+          "Classmates, Comrades, and Kin",
+          "May Parker took her nephew in to raise him as if he was her own son and has instilled values in Peter Parker that serve him well. So close are the two that he worries over hurting May with his Spider-Man activities and feels the pain of lying to her. May is easygoing to some extent, but is quick to let her nephew know when she is unhappy with any situation he may be involved in.",
+          "As a student at the Midtown School of Science and Technology, Parker enjoys only a very small circle of friends, partially due to his extracurricular time as Spider-Man. His best friend is his classmate Ned, who discovers Spider-Man’s secret identity by accident and is in complete awe over the details of Parker’s costumed career. During Spider-Man’s first real adventure involving a major adversary, Ned provides valuable support, despite his seemingly bumbling demeanor.",
+          "Peter Parker’s kindhearted first crush, Liz, led to Peter’s shocking discovery that her father was his enemy, Adrian Toomes, and Liz’s departure not only from Peter’s school, but also from the city with her family.",
+          "Spider-Man maintains a mentor-student relationship with Tony Stark, even through ups and downs between them, due to Parker’s rebellious streak and his desire to be just like Stark when it comes to heroics."
+        ]
+      ]
     },
     {
       "name": "Wanda Maximoff",
-      "image": "./assets/Characters/Wanda Maximoff.JPG"
+      "image": "./assets/Characters/Wanda Maximoff.JPG",
+      "imageLarge": "./assets/Characters/Wanda Maximoff large.jpg",
+      "shortDescription": "Notably powerful, Wanda Maximoff has fought both against and with the Avengers, attempting to hone her abilities and do what she believes is right to help the world.",
+      "description": [
+        [
+          "Awakening the Witch",
+          "Sokovian native Wanda Maximoff and her twin brother Pietro survived an explosion in their apartment building that killed both of their parents. Another missile landed, but did not explode. It terrorized them for days as they remained stuck in the rubble, with the deadly device in front of them, the name Stark emblazed on its side.",
+          "Years later, they both volunteered to undergo genetic experimentation overseen by HYDRA’s Baron Wolfgang von Strucker, using Loki’s scepter, to potentially give them powers. One of the few survivors of the experiments, along with her brother, Wanda found herself with a variety of abilities. Alongside Pietro, Wanda went on to use these abilities to help the robot Ultron, who shared her disdain for Tony Stark.",
+          "However, when she and Pietro discovered the true nature of Ultron’s plans, they switched allegiances and joined the fight against him, putting Wanda on the path to become an Avenger."
+        ],
+        [
+          "Scarlet Power",
+          "The full extent of Wanda’s considerable powers has likely not been fully documented as of yet.",
+          "As her powers likely come at least in part from the Mind Stone inside of Loki’s scepter, Wanda’s abilities include telekinesis, energy manipulation, and some form of neuroelectric interfacing that allows her to both read thoughts and also give her targets waking nightmares. Under the tutelage of Avengers Captain America and Black Widow, she has learned not only to hone her abilities further, but also hand-to-hand combat and tactical skills."
+        ],
+        [
+          "The Witch List",
+          "Wanda Maximoff’s enemies shift significantly as she changes allegiances.",
+          "Because Stark missiles kill her parents and nearly kill her and her twin brother Pietro, Wanda spends much of her youth hating Tony Stark. Her initial ally, Ultron, plays off of that rage and manipulates the twins into working for him against the Avengers. However, she comes to see the genocidal Ultron as the true enemy and helps stop his evil scheme. While the relationship between her and Stark does not develop into friendship, they do become teammates as part of the Avengers.",
+          "Wanda later finds a fearsome foe in Thanos, whose goal to gain all six Infinity Stone sets him on a path to Vision, who holds the Mind Stone. Thanos’ quest pits Wanda against two of his followers, Proxima Midnight and Corvus Glaive, and eventually Thanos himself. Wanda defeats Proxima Midnight to defend her allies, Black Widow and Okoye. Although Wanda opposes Thanos’ goal to end half the life in the universe, he is a much more personal enemy, given her love for Vision and her desire to save his life. She stands staunchly against the Mad Titan in attempt to prevent him from taking the Mind Stone for himself."
+        ],
+        [
+          "Avenging Friends",
+          "As she becomes an Avenger, Wanda Maximoff develops a good relationship with many in the Super Hero community.",
+          "Her first and foremost ally is her twin brother, Pietro Maximoff, who stands by and tries to protect her in the wake of their parents’ death. After gaining powers from Baron von Strucker, the Maximoff twins ally themselves with Ultron before fully understanding his villainous plans. Wanda, along with Pietro, switches sides and works with the Avengers, fighting alongside Captain America, Thor, Hulk, Black Widow, Iron Man to oppose the mechanical monster. She is particularly inspired by Hawkeye, who sees a lot of potential in her and becomes a mentor to her. She grieves deeply when Pietro perishes in the fight against Ultron.",
+          "Despite her loss, Wanda becomes a full-fledged Avenger, on a team consisting of Captain America and Black Widow, along with fellow new recruits Falcon, War Machine, and Vision. As time goes on, Vision and Wanda grow closer, an unlikely, but strong, romance eventually blossoms between the two. So strong that Wanda initially refuses to destroy the Mind Stone in Vision’s forehead, despite knowing that the fate of the universe hangs on this decision."
+        ]
+      ]
     },
     {
       "name": "Black Widow",
-      "image": "./assets/Characters/Black Widow.JPG"
+      "image": "./assets/Characters/Black Widow.JPG",
+      "imageLarge": "./assets/Characters/Black Widow large.jpg",
+      "shortDescription": "Natasha Romanoff, separated from the now-fractured Avengers, confronts the dark path she took to becoming a spy and assassin, as well as events that followed.",
+      "description": [
+        [
+          "Enigma",
+          "Natasha Romanoff was trained from a young age to cultivate a very specific set of skills in a Russian facility called the Red Room. There she honed the skills that would turn her into a human warrior who continues to stand shoulder-to-shoulder with super soldiers, Asgardians and people in armored suits. However, she eventually eschewed her KGB masters, switched allegiances and began working for the good guys."
+        ],
+        [
+          "Trained by the Best",
+          "Exhibiting no super human abilities, the Black Widow boasts ultimate human levels of strength, agility, and stamina. She is extensively trained to near perfection in a variety of fighting styles, such as karate, judo, kung fu, and wrestling, and with all manner of weapons—both traditional and high-tech—combined with her background in gymnastics, acrobatics, and ballet to always accomplish her mission.",
+          "She can use a simple handgun just as well as a Chitauri battle staff or even Captain America's shield. Her signature weapons include dual batons, a pair of Glock 26s and the Black Widow’s Bite—bracelets that discharge electricity. Romanoff also displays great skill when it comes to hacking in computers and technological systems to dig for information or regaining control."
+        ],
+        [
+          "Beware Her Bite",
+          "Many of the Black Widow's enemies were assigned to her, first by the KGB and then by S.H.I.E.L.D.",
+          "In more recent years, though, she assists in taking down Ivan Vanko, Justin Hammer, the Chitauri, HYDRA, Baron Wolfgang von Strucker, and Helmut Zemo among others. And those are just the targets we know about.",
+          "Some notable foes include, the Asgardian god of mischief, Loki and Ultron. She proves a formidable opponent to Loki, who assumes that he is able to manipulate her when he recalls her past misdeeds. Instead, it is Natasha who gets the upper hand on him, determining that he plans to release the Hulk as part of his plan. When Ultron captures her, she still undermines him to give the Avengers her location, helping them in their plan to defeat him.",
+          "Following the events of the Sokovia Accords and Civil War, Romanoff is later forced to come out of hiding with Steve Rogers and Sam Wilson when Thanos and his followers come to Earth in a quest to gain all six Infinity Stones, which would could instantaneously eliminate half of all life in the Universe with a snap of a finger."
+        ],
+        [
+          "Allies Declassified",
+          "Although she was raised to be autonomous and without attachments, the Black Widow has proven herself an exceptional team player.",
+          "Fellow agent and Avenger Clint Barton seems to be Natasha Romanoff's best friend. She feels she owes him a debt for the role he played in bringing her over from the KGB, instead of eliminating her as a target. She seems to care for him quite deeply, as she bargains for his release when Loki has him under his control. Also, at first, she is the only Avenger to know the existence of Hawkeye’s family.",
+          "The Black Widow is loyal to S.H.I.E.L.D. and Nick Fury before they both realize HYDRA manipulated them. Fury brings Romanoff and Barton in when he activates the Avengers Protocol, putting them side by side with Captain America, Iron Man, Hulk and Thor. She goes on to fight alongside with Scarlet Witch, Vision, Falcon, War Machine, Winter Soldier, Spider-Man, Black Panther, and the Dora Milaje."
+        ],
+        [
+          "Red in Her Ledger",
+          "According to Arnim Zola, Natasha Romanoff was born in 1984. Sometime shortly after that, she was indoctrinated by the Red Room, a Russian training program that took young girls and turned them into lethal undercover agents. In this era, Romanoff met Bucky Barnes during his time as the Winter Soldier, though the exact nature of their relationship has not yet been fully disclosed.",
+          "Romanoff proved an incredible asset for the KGB and succeeded in many of her missions. By her own admission, she didn't care who she took out or why. Several years back, S.H.I.E.L.D. sent agent Clint Barton to kill the Widow, but he made a different call and helped bring her in as S.H.I.E.L.D. asset.",
+          "The Black Widow got her first taste of the Super Hero life when Director Nick Fury assigned her to pose as Natalie Rushman and keep an eye on Tony Stark, who had already told the world he was Iron Man. As his new assistant at Stark Industries, Romanoff traveled with Stark to Monaco where he first faced off against Ivan Vanko. Shortly after revealing herself as a S.H.I.E.L.D. agent, she injected Stark with lithium dioxide to help him deal with the palladium poisoning from the arc reactor in his chest.",
+          "Following the events of Justin Hammer and Ivan Vanko’s assault at the Stark Expo Presentation, Romanoff assessed Iron Man as an important asset, but noted that Stark suffered from compulsive behavior, self-destructive tendencies, and narcissism, making him unfit for the Avengers program by S.H.I.E.L.D.’s standards.",
+          "Two years later, S.H.I.E.L.D. agent Phil Coulson sent her on an undercover mission in India, after Agent Barton had been compromised, to recruit Bruce Banner AKA the Hulk to aid in locating the Tesseract that had been stolen by Loki. Assembling as the Avengers, Romanoff along with Banner, Stark, Steve Rogers, Loki’s brother Thor, and Barton, free from his hypnotic state, were forced to battle Loki. The Asgardian prince used the Tesseract to open a portal unleashing his army of alien invaders, the Chitauri, in the streets of New York. Successfully closing the rift and neutralizing the threat, Romanoff returned to S.H.I.E.L.D. with Barton.",
+          "A few years following the Battle of New York, Romanoff and Captain America were assigned a mission to retake the Lemurian Star from pirates led by Georges Batroc. Widow had a secret side assignment from Director Fury to retrieve confidential S.H.I.E.L.D. files in a flash drive. In possession of the drive, Fury became the target of an assassin, the Winter Soldier. Hacking the protected files, Romanoff and Rogers went to Camp Leigh where the consciousness of Arnim Zola revealed HYDRA had not only survived World War II, but has manipulated S.H.I.E.L.D. from the beginning, with the Winter Soldier. Despite feeling duped for essentially trading KGB overlords for secret HYDRA ones, Widow worked with Captain America, the newly-recruited Falcon (Sam Wilson), and a wounded, but alive, Director Fury to put a plan in place to prevent HYDRA’s plan. They needed to not only stop this plan—Project Insight, meant to massacre millions deemed a threat to HYDRA’s new world order—from being initiated, and but also stop the Winter Soldier, who was revealed to be Steve Roger’s brainwashed best friend, Bucky Barnes.",
+          "After releasing the secrets of both S.H.I.E.L.D. and HYDRA, as well as her own dark history, Romanoff appeared before the Senate defending the dismantling of S.H.I.E.L.D. With all her covers blown, she gave Rogers a dossier on the Winter Soldier and then left to find a new identity.",
+          "Black Widow reassembled with the Avengers a year later in Sokovia, as the team raided Baron Wolfgang von Strucker’s HYDRA base to reclaim Loki’s scepter. Under the influence of Wanda Maximoff’s Scarlet Witch telekinetic powers, Romanoff was forced to relive her nightmarish past with the KGB and the Red Room’s Graduation Ceremony that sterilized her.",
+          "With Avengers Tower compromised by Ultron, the Avengers went off-the-grid to Barton’s homestead. Romanoff’s romantic overtures were rebuffed by Banner who believed there was no future with him knowing how dangerous his alter-ego is. Opening up about her past, Romanoff revealed how she sees herself as a monster as well.",
+          "Captured by Ultron in a Sokovian HYDRA base, Banner was sent to free Widow where she declared her love for him. Reuniting with the Avengers, the heroes fought Ultron’s drones and helped the Sokovians to safety. Following the battle, Romanoff tried making contact with Banner, but Hulk canceled the call, going into stealth mode and disappearing for two years.",
+          "In the wake of the Ultron battle and the recruitment of new Avengers Scarlet Witch, Vision, War Machine and Falcon, Secretary of State Thaddeus Ross enacted the Sokovia Accords, an agreement the Avengers were expected to sign that would make them part of the United Nations, an act Captain America strongly opposed. Despite her nature of operating in the shadows and her friendship to Rogers, Romanoff believed the better play with staying together and joined Stark’s team in support of governmental oversight.",
+          "At the climax of the Civil War, Romanoff revealed she had been on Rogers’ side, even holding off the Black Panther in order for Rogers and Barnes to deal with Helmut Zemo. Betrayed, Stark halfheartedly warned her that Ross and the government will be coming for her. Romanoff left the Avengers Headquarters a fugitive.",
+          "On the run and operating underground, Captain America, Falcon, and Black Widow were forced out of the shadows after stepping in to help Scarlet Witch and Vision fend off Proxima Midnight and Corvus Glaive in Scotland, and the larger Thanos threat as he pursued all six Infinity Stones to wipe out half of all life in the Universe.",
+          "Heading to the Avengers Compound in upstate New York, Widow, Cap, Falcon, Vision, and Scarlet Witch reunited with James Rhodes, who ignored Secretary of State Ross’ demands to arrest the fugitives, and Bruce Banner, who had been missing after spending several years in space.",
+          "In an attempt to separate Vision from the Mind Stone so they could destroy it and keep it out of Thanos’ hands, the group traveled to Wakanda. Joined by Wakanda’s tribes and Dora Milaje, Black Widow and the Avengers presented a front to Thanos’ alien hordes.",
+          "Wakanda, overwhelmed by the alien Outriders, received a much-needed boost from the arrival of Thor, his newly acquired Stormbreaker, and Guardians of the Galaxy Rocket and Groot. During the battle, Black Widow, Okoye, and Scarlet Witch worked together to take Proxima Midnight off the board.",
+          "When Thanos ultimately arrived on Earth, Widow unsuccessfully tried to stop the Mad Titan from obtaining Vision’s Mind Stone as he subdued her with Earthen tendrils. With all six Infinity Stones now in his possession, Thanos snapped half of all life in the Universe from existence. In Wakanda, Black Widow, along with Okoye, M’Baku, Rocket, Thor, Captain America, War Machine, and Hulk, survived the genocide and watched helplessly as many of their friends and allies disintegrated."
+        ]
+      ]
     },
     {
       "name": "Loki",
-      "image": "./assets/Characters/Loki.JPG"
+      "image": "./assets/Characters/Loki.JPG",
+      "imageLarge": "./assets/Characters/Loki large.jpg",
+      "shortDescription": "God of Mischief and brother to Thor, Loki’s tricks and schemes wreak havoc across the realms.",
+      "description": [
+        [
+          "God of Mischief",
+          "The ever-scheming Loki, raised as the son of King Odin and Queen Frigga of Asgard, is resentful of living in his brother Thor’s shadow. Loki studied magical arts earning the “God of Mischief” title, while his brother pursued physical prowess. Believing himself to be the rightful King of Asgard, Loki schemes to undermine the God of Thunder’s ascension to the throne, desperate for his father’s approval and to be seen as an equal to Thor.",
+          "During Thor’s banishment to the realm Midgard, Odin revealed Loki’s true parentage. Ages ago, Odin fought and defeated Laufey and the Frost Giants of Jotunheim in a great war. Abandoned and left for dead as a baby due to his diminutive size, Odin took Loki, son of Laufey, to Asgard to raise him as his son and a prince in order to one day unite the Frost Giants and the Asgards in peace.",
+          "Furious that he had been lied to all his life and used as Odin’s political pawn instead of loved as his son, Loki set on several paths to prove his worth of the throne and superiority over Thor."
+        ],
+        [
+          "Liesmith",
+          "Loki possesses strength, durability, and longevity far superior to humans. The most powerful sorcerer in all of Asgard, Loki’s magical abilities include astral projection, shape-shifting, hypnosis, molecular rearrangement, energy blasts, levitating, conjuration, cryokinesis, telekinesis and teleportation. In addition, Loki can connect to others telepathically and see into their memories, mystically imbue objects, and create rifts between dimensions.",
+          "A master of manipulation and deceit, Loki is highly intelligent with immense knowledge and skill in wielding mystical artifacts, arcane lore, and human as well as alien technology. A highly-tactical thinker, Loki is able to manipulate opportunities and events in his favor; his cunning mind far exceeding Thor and Odin’s.",
+          "Loki, an expert combatant, typically wields throwing knives and other small blades. The God of Mischief has also wielded a Chitauri Scepter gifted by the Other and Thanos, Odin’s Gungnir spear, the Casket of the Ancient Winters, and the Tesseract."
+        ],
+        [
+          "Enduring and Mortal Rivals",
+          "While Loki’s enemies are difficult to determine given Loki’s questionable allegiances, some notable foes do stand out.",
+          "The relationship between Loki and Thor and Odin could be labeled “complicated,” at best. Initially good and altruistic, Loki soon sees his adoptive father, King Odin, and his brother Thor as more thorns in his side, preventing him from becoming the ruler he is meant to be. Upon learning his true parentage, Loki feels anger and betrayal for Odin’s deception, believing the Allfather saw him as a monster never meant for the Asgardian throne. This fuels his unrelenting jealousy of Thor and feelings of inferiority.",
+          "Despite his latent love for his family and occasionally helping Thor when he feels inspired, he typically betrays him. Thor’s closest friends—Sif and the Warriors Three Volstagg, Fandral and Hogun—and Asgardian gatekeeper Heimdall support the God of Thunder in all things and are always wary of Loki’s misplaced loyalties. However, Thor continually believes in Loki’s ability to be more.",
+          "When Loki steals an unknown entity that is thought to be an unlimited source of energy, the Tesseract, he finds himself facing off against S.H.I.E.L.D. This espionage and protection agency, led by Director Nick Fury and supported by agents Maria Hill and Phillip Coulson, assembles the Avengers to fight him.",
+          "The Avengers, a group of super-powered and remarkable people known as Earth’s defenders, which includes Captain America, Iron Man, Hulk, Hawkeye, Black Widow, Thor, and later Falcon, Vision and Scarlet Witch, pose a threat to Loki’s schemes to take over and rule Earth.",
+          "His longlist of enemies that stand between him and his desires include Malekith and the Dark Elves, Odin’s first-born Hela, and Jane Foster. More recently, the Mad Titan Thanos and his followers—Corvus Glaive, Proxima Midnight, Ebony Maw and Cull Obsidian—cross paths with Loki when he is fleeing along with other Asgardians from their demolished home world. It is then Loki faces off against a threat perhaps too big for him, but also reaffirms his brother’s repeated belief in him."
+        ],
+        [
+          "Confidants and Cohorts",
+          "Loki’s allies are similarly challenging to pinpoint, as his charm and powers of manipulation serve him to ally with anyone who suits his purposes.",
+          "However, Loki does deeply care for and loves his adoptive mother Frigga above anyone else in his family. She teaches him in the ways of astral projection and encourages his gift for sorcery. He feels deep remorse and pain for how his schemes play a role in her demise, and has a breakdown when she passes.",
+          "The Chitauri, an ancient race of extraterrestrials led by the Other, take Loki under their wing. They gift him ancient knowledge and a Chitauri scepter to wield. The Other serves Thanos. This former ally turns into an enemy once the Mad Titan threatens the lives of half of the Asgardian refugees, along with his brother Thor.",
+          "Clint Barton AKA Hawkeye and Dr. Erik Selvig are pawns in Loki's scheme to rule Earth. He controls them using a Chitauri Scepter, bending them to his will.",
+          "Laufey is the biological father of Loki. Despite being abandoned, Loki invites the King of the Frost Giants to Asgard to murder the sleeping Asgardian King Odin and start a second war between Jotunheim and Asgard. However, Laufey is ultimately betrayed and killed by Loki.",
+          "On Sakaar, Loki wins the favor of the Grandmaster, a hedonistic tyrant who manipulates life-forms into fighting each other in the Contest of Champions. Unwilling to be left behind on Sakaar, Loki ultimately aligns with Revengers Thor, Hulk, and Valkyrie to defeat Hela and save the remaining Asgardian populace from Ragnarok."
+        ]
+      ]
     },
     {
       "name": "Thor",
-      "image": "./assets/Characters/Thor.JPG"
+      "image": "./assets/Characters/Thor.JPG",
+      "imageLarge": "./assets/Characters/Thor large.jpg",
+      "shortDescription": "The son of Odin uses his mighty abilities as the God of Thunder to protect his home Asgard and planet Earth alike.",
+      "description": [
+        [
+          "If I had a Hammer",
+          "Born 1500 years ago to Odin and Frigga, the king and queen of fabled Asgard, Thor grew into a mighty warrior and protector of his home and people. Thought to be rash and even reckless by his father, Thor nevertheless looked forward to the day of his ascension to the throne. But, his adoptive brother Loki schemed in private to ensure that day never arrived. He manipulated Thor into attacking the Frost Giants, legendary adversaries of the Asgardians and Loki’s people, and Odin—hoping to teach his son humility—divested Thor of his magic hammer Mjolnir and banished him to Midgard, the realm also known as Earth.",
+          "Alone and unable to return to Asgard, Thor met scientists Jane Foster and Erik Selvig in the midst of their investigation into strange activity near a small New Mexico town. While his brother struggled with the limitations of mortals on Earth, Loki worked to ensure his own seizure of the Asgardian throne and planned to allow the Frost Giant king—his real father—into Asgard to slay Odin in his sleep. Back on Earth, Thor sacrificed himself to save the town from destruction and in doing so, impressed Odin enough to restore him to full Asgardian power.",
+          "With Mjolnir once again in his grasp and the admiration and possible love of Jane Foster, Thor returned to his home, routed the Frost Giants, and defeated Loki in battle. Chagrined at his loss and stinging from Odin’s condemnation, Loki chose to fall away from Asgard into a strange warp in space while Thor and their father looked on. Though happy to be back in Asgard, Thor’s thoughts were filled with adventure on Midgard with Jane Foster."
+        ],
+        [
+          "The Trappings of a God",
+          "Like all Asgardians, Thor possesses great strength, endurance, stamina, and long life, but it is his command over the stormy forces of nature that separate him from his brethren as a true son of Odin the Allfather. Thor can call down lightning and thunder at will and utilize them like a blacksmith uses his tools to work iron and steel—bending and shaping them into weapons. Once he believed it was his hammer Mjolnir that granted him these powers, but in truth the ability has rested within him the whole time.",
+          "For nearly a thousand years Thor holds Mjolnir’s grip in battle, a true companion if ever there was one. The incredible hammer was forged by Odin from the heart of a dying star and gifted to his son for his exclusive use. Odin even places an enchantment on it when he banishes Thor to Midgard, one that would only allow a “worthy” person to lift it and possess the power of the god of thunder. While Thor is with the Avengers on Earth, his comrades all try to handle the hammer, but only Captain America could move it slightly, a feat that its owner takes notice of.",
+          "After Mjolnir’s destruction by Hela, Thor forges a new weapon when the threat of Thanos arises. With the help of Eitri, a Dwarven smithy of Nidavellir, and an adolescent Groot, Thor crafts Stormbreaker, an immense axe with some of the same properties as his hammer, along with the ability to open the Bifrost."
+        ],
+        [
+          "The Dark Half",
+          "Thor develops a number of adversaries in his quest to protect Asgard, and also Midgard, from harm.",
+          "The relationship between Thor and Loki may rightfully be categorized as “complicated.” Raised as brothers, the two men know each other better than anyone, yet have been continually at odds, sometimes to notably extreme degrees. Loki’s scheming nature and unbridled egoism comes between him and Thor many times over, causing trouble that has literally impacted entire worlds. Still Thor, overcoming multiple betrayals, believes the man he calls brother can change and embrace the light. And it seems Thor’s belief in his is redeemed when Loki gives his life to protect Thor from Thanos—leaving Thor to deeply mourn his brother’s loss.",
+          "Among Thor’s more clear-cut enemies stand Frost Giant King Laufey, Surtur the Fire Giant, the dark elf Malekith, and Thor’s own half-sister Hela, the so-called goddess of death, all of whom have ill intent towards Asgard. Thor also finds himself imprisoned for a time on Sakaar by the Grandmaster.",
+          "Thanos earns Thor’s immense hatred after the tyrant’s crusade wipes out many Asgardians and kills loved ones of the god of thunder, making things very personal for him."
+        ],
+        [
+          "Warriors All",
+          "Thor grows up surrounded by warriors and fighters, and it is among that august group that he can count the majority of his close companions.",
+          "Heimdall, all-seeing keeper of the Bifrost Bridge, offers Thor advice and counsel whenever he requests it, and many times when he does not. Thor treasures his friendship with Heimdall, and they often fight back to back against those who threaten their home. Likewise, both Sif and the Warriors Three (Volstagg, Fandral, and Hogun) are valued comrades of Thor, battling at his side over the years. They take pride in the fact that they always had each other’s backs in a fight, until the Warriors Three perish during Hela’s siege on Asgard.",
+          "On Earth, Jane Foster is a warrior in her own right, a woman who stands up for what she believes in and never backs down no matter how big a challenge she faces. These traits impress Thor from the moment he meets the young scientist, and their admiration for each other quickly grows into love. Whenever Thor is away from Earth, he counts the minutes until he returns to Jane Foster’s side. Unfortunately, the two part ways eventually. The Asgardian also feels a bond with Dr. Erik Selvig, Foster’s partner, and he looks to the scientist many times for insight not only into deep matters, but also for his knowledge of the world.",
+          "Of all of Thor’s Avengers teammates, Steve Rogers, Captain America, is perhaps the one that he trusts most with his life, though he will always remain a faithful companion to the others, including Tony Stark and Bruce Banner. The latter, in fact, more recently becomes a closer friend to Thor, as Banner’s alter ego the Hulk battles Thor in the gladiatorial arena on Sakaar and fights beside him in Asgard.",
+          "Thor also makes the acquaintance of one of the fabled Valkyrie on Sakaar, a warrior woman self-exiled from Asgard and her duties as one of its protectors. Though she at first opposes everything Thor stands for, she comes around to his desire to return to Asgard and vanquish its conqueror, Hela. In doing so, she becomes yet another staunch ally of the thunder god’s, as does the Kronan named Korg, who also fights with Thor on both Sakaar and Asgard.",
+          "While Thor encounters all of the Guardians of the Galaxy, he forges a special bond with Rocket, who accompanies him on his journey to create Stormbreaker in order to battle Thanos. Groot, who also joined that mission, becomes an ally as well."
+        ]
+      ]
     },
     {
       "name": "Iron Man",
-      "image": "./assets/Characters/Iron Man.JPG"
+      "image": "./assets/Characters/Iron Man.JPG",
+      "imageLarge": "./assets/Characters/Iron Man large.jpg",
+      "shortDescription": "Genius. Billionaire. Philanthropist. Tony Stark's confidence is only matched by his high-flying abilities as the hero called Iron Man.",
+      "description": [
+        [
+          "Cool Exec",
+          "Genius inventor Tony Stark continued his father Howard Stark’s weaponry business after his parents’ untimely deaths and flew it to even greater heights of innovation. While in Afghanistan to demonstrate a new missile for the U.S. military, Stark’s convoy came under fire by a terrorist group known as the Ten Rings and he was severely wounded. Taken prisoner by the group, Stark awoke in their headquarters to learn that shrapnel near his heart had nearly cost him his life, but swift action by scientist and fellow prisoner Ho Yinsen—who had inserted a powerful electromagnet in Stark’s chest—would prolong it temporarily.",
+          "Stalling his captors after they demanded he build them a new weapon, Stark replaced the magnet with the RT, a miniature version of a device originally designed by his father, the Arc Reactor. Furthermore, he and Yinsen created a crude suit of armor which could provide them the means with which to escape. The suit worked as planned, though Yinsen sacrificed himself in order to allow Tony enough time to power it up to fight their terrorist captors.",
+          "With help from his friend Lt. Colonel James Rhodes, the inventor returned home and promptly announced Stark Industries departure from the weapons business. His personal assistant Pepper Potts backed the sudden course reversal, but his father’s old friend and business partner, Obadiah Stane, strongly disagreed with what he saw as a rash decision.",
+          "Stark worked overtime in his lab to streamline the armor, and when he’d finished, a new persona emerged: Iron Man. After he discovered Stane had illegally sold Stark weapons to the Ten Rings, he donned the armor to return to Afghanistan and stop the group from using them. Later, he also learned that Stane had paid the Ten Rings to kill him and had been working behind Stark’s back to steal the entire company. The older man then forcibly took the RT from Tony’s chest and left his old friend’s son to die. But, Potts helped Stark insert his original, cobbled-together RT into his chest, and Iron Man flew again.",
+          "Stane presented himself in a gigantic suit of armor of his own, and a battle ensued until Stark and Potts overloaded Stane’s power source and Stane died in the process. Feeling more confident in himself than ever before, Stark called a press conference soon after the fight and impulsively announced to the world that he was indeed Iron Man."
+        ],
+        [
+          "Heart of Steel",
+          "At the very core of the Iron Man technology lies the Arc Reactor. Designed by Howard Stark, but augmented and strengthened by Tony Stark, the Reactor provides a clean, manageable energy source with incredible output, one that can be adapted to most anything. At first a large piece of equipment, the younger Stark miniaturized the technology into the “RT,” which was the size of a human heart, and put it to great use to power his suits of armor.",
+          "Iron Man’s armor provided a complete working environment for its user, including enhanced strength, closed air systems, data input, communications, flight, defense systems, and offensive weaponry such as missiles, lasers, and so-called “repulsor” technology. Stark never stops in his advancement of his armor designs, and at one time created multiple versions, each one of them with a specialized use. The armor has also become lighter and more flexible since the first incarnation, allowing Stark to “suit up” in mere seconds and be immediately ready for action.",
+          "Stark’s latest suit was destroyed in battle with the tyrant Thanos, but while in use sported maximum thrust for flight, new offensive weapons, and nanotechnology that allowed near instantaneous application."
+        ],
+        [
+          "Stark Raving Enemies",
+          "Many of Tony Stark’s enemies have stepped out from the shadows to reveal themselves as people connected to him in some personal way, making for even tougher challenges for Iron Man.",
+          "Obadiah Stane fools Stark and nearly everyone around him with his vocal desire to see Stark Industries, his old friend’s business, succeed and grow. That desire leads to selfish pursuits and the belief that Howard Stark’s son would serve Stane’s purposes better dead than alive. His own intellect and scientific prowess provide him with the means to build the gigantic “Iron Monger” suit, but his hubris leads to his defeat and demise.",
+          "Justin Hammer first appears on the scene as a business rival of Stark’s, and swiftly proves himself unreliable, as well as harboring criminal tendencies, like Aldrich Killian after him. They stand as two men who could have helped the world to become a better place, but instead fed their own passions and brought an ending to their respective stories through their own missteps. Ivan Vanko lusts for revenge on the Starks for what he sees as injustices heaped upon his own father, making him something of a darker version of Tony Stark.",
+          "In Loki, Thor’s adoptive brother, Stark encounters a foe who seems to wield magic instead of science, something that is at odds with the inventor’s entire make-up. To counteract this internal dilemma, Stark confronts Loki with his trademark wit and bravado.",
+          "Ultron represents Stark’s hubris in physical form—a robot created by him. Ultron almost immediately advances itself past its creator to become Stark’s nightmare: technology he can’t control. Though he and the Avengers manage to defeat Ultron, the scars from its birth still show on Stark, perhaps forever.",
+          "More recently, Thanos the tyrant from Titan dominates Stark’s list of enemies and proves to be more than a match for the man’s genius and armored strength."
+        ],
+        [
+          "Tony’s Heart",
+          "Some of Tony Stark’s closest friends, allies, and associates are people he works with.",
+          "Pepper Potts began as Stark’s personal assistant. She quickly proves her value to him by essentially making sure he survives each day as the owner of Stark Industries, therefore earning his trust to step into the role of CEO. On a personal level, the two develop deep feelings for each other that grows into a romance for the ages. Tony Stark cannot see his life as anything without Pepper Potts, and he hopes to prove it every single day they’re together, through thick and thin.",
+          "Happy Hogan is also an employee that earned his boss’ trust, first as his chauffeur and then as Stark’s head of security. Hogan can often exhibit an overzealous nature when it comes to what he sees as taking care of Stark, but he would take a bullet for the man and has. The same is true of James Rhodes, who wears a version of the Iron Man suit as War Machine/Iron Patriot and has at times been the liaison between Stark Industries and the U.S. military. He and Stark’s friendship dates back to their attendance at M.I.T., and it has grown into a partnership beyond a common background to mutual admiration, even when each sees the other at their worst.",
+          "In the Super Hero community, perhaps the closest friend Tony Stark has is Steve Rogers, Captain America. Tony and Steve have had notable ups and down—And even come to blows—and often have differing opinions on how best to serve the world community. However, the two men share a strong figure in their histories, Howard Stark, and they both possess notable devotion to tasks at hand.",
+          "Tony has also found himself serving as a mentor to Peter Parker, the teenage Super Hero known as Spider-Man. Beyond giving the young man updated tech and suits, Tony finds himself dispensing advice to Peter about how to best forge his path as a hero and feels protective towards him."
+        ]
+      ]
     },
     {
       "name": "Hawkeye",
-      "image": "./assets/Characters/Hawkeye.JPG"
+      "image": "./assets/Characters/Hawkeye.JPG",
+      "imageLarge": "./assets/Characters/Hawkeye large.jpg",
+      "shortDescription": "A master marksman and longtime friend of Black Widow, Clint Barton serves as the Avengers’ amazing archer.",
+      "description": [
+        [
+          "Golden Archer",
+          "Very little is known about the S.H.I.E.L.D. agent known as Hawkeye or his origins. An accomplished combatant and weapons master, he was present for Thor’s arrival on Earth, and was impressed with the God of Thunder. He was also instrumental in bringing over Natasha Romanoff, AKA Black Widow, to the side of S.H.I.E.L.D, sparing her life and offering her a path to redemption.",
+          "For his extraordinary abilities, he was recruited by Nick Fury to be part of the Avengers Initiative. Unfortunately, in his first mission with the Avengers, he initially worked against them, thanks his mind being controlled by Loki, the Asgardian God of Mischief. After being broken free, however, the horrified Clint did work alongside his fellow Super Heroes to bring down the trickster god.",
+          "Since then, he has managed to put his talents to good use against the Chitauri, Ultron, HYDRA, and even his fellow Avengers when it seemed necessary."
+        ],
+        [
+          "Sniper Mentality",
+          "As one of S.H.I.E.L.D.’s best agents, the World’s greatest marksman, and an Avenger, Hawkeye uses traditional weapons as well as high-tech ones, with a strong affinity for his archery bows. Few humans on the planet compare to Clint Barton when it comes to his astonishing talents in precise marksmanship, fighting, flying, and tactical prowess.",
+          "An expert acrobat, military-trained combatant, and master assassin, Barton can stand toe-to-toe with some of the best fighters around. He is also a master tactician and spy—the Avengers face quite a bit of difficulty when Hawkeye works for Loki and turns his plans against them.",
+          "Hawkeye’s specialized equipment include recurve bows, compound bows, a specialized arrow quiver, speed loader, Busse dagger, a S.H.I.E.L.D.-issued handgun, and collapsible baton."
+        ],
+        [
+          "Target Acquired",
+          "Plenty of people wind up on the wrong end of Barton’s arrows, especially based on the direct orders of S.H.I.E.L.D.",
+          "As he is part of the Avengers Initiative, his enemies are the ones that threaten this group and Earth. He faces the likes of the Chitauri, HYDRA, Ultron and his robotic sentries, Ulysses Klaue, in his bid to keep the world safe. Hawkeye even battles his fellow heroes when they stand in the way of Captain America and the Winter Soldier getting to Siberia, when the Avengers split over the Sokovia Accords.",
+          "His most notable enemy, however, is Loki. With his strong sense of morality, Clint suffers at the thought of having worked against S.H.I.E.L.D. and his fellow agents, mourning the losses at his hand. He blames Loki for this violation, and the Asgardian prince has earned Barton’s eternal enmity."
+        ],
+        [
+          "Friends in High Places",
+          "As an agent of S.H.I.E.L.D., Clint Barton is allied with many in this organization. He respects and takes orders from Nick Fury (unless they contradict his own sense of what is right) and supports colleagues like Maria Hill and Phil Coulson.",
+          "His closest friendship is with Natasha Romanoff, AKA Black Widow, who he recruits for S.H.I.E.L.D. They often work together on missions and have a strong rapport. Natasha has been known to wear an arrow necklace in honor of her friend, and even bargains for his release when he is under Loki’s control. He cannot bring himself to fight her properly when they are on opposing sides of the Sokovia Accord dispute. She is also the only agent apart from Nick Fury that he entrusts with knowledge of his family (until he brings the Avengers to his compound). When Director Fury put the Avengers initiative in place, Barton fights alongside the likes of Iron Man, Hulk, Captain America, Thor, and eventually, Ant-Man, Vision, Falcon, War Machine and other heroes. He forms a close bond with the Maximoff twins, acting as a mentor when they switch sides to face against Ultron. He mentors Scarlet Witch, encouraging her to face her fears and become and Avenger. Pietro Maximoff, AKA Quicksilver, even gives his life to save Hawkeye.",
+          "Most important to him, however, are his wife Laura and kids Cooper, Lila and Nathaniel (whose middle name “Pietro” reflects the hero’s sacrifice)."
+        ]
+      ]
     },
     {
       "name": "Hulk",
-      "image": "./assets/Characters/Hulk.JPG"
+      "image": "./assets/Characters/Hulk.JPG",
+      "imageLarge": "./assets/Characters/Hulk large.jpg",
+      "shortDescription": "Dr. Bruce Banner lives a life caught between the soft-spoken scientist he’s always been and the uncontrollable green monster powered by his rage.",
+      "description": [
+        [
+          "Not Easy Being Green",
+          "Bioscience genius Dr. Bruce Banner focused his major studies on the effects of gamma radiation on humans, working alongside Dr. Betty Ross at a Virginia University lab. Dr. Ross’ father, General “Thunderbolt” Ross of the U.S. Army, channeled Banner’s work into a program to develop weapons for the military, unbeknownst to both doctors. When Banner decided to test what he learned on himself, he triggered a fantastic transformation in himself that resulted in an immense, hulking figure fueled by his own rage.",
+          "Having destroyed his lab as the creature, and inadvertently harming Ross in the process, Banner slipped away to avoid capture and study by the Army and began a desperate quest for a cure to his bizarre affliction."
+        ],
+        [
+          "Nobody Stronger",
+          "As intelligent and cerebral as Bruce Banner is, his alter-ego the Hulk is a completely physical phenomenon. The green behemoth possesses the greatest raw strength of any natural being on Earth, with an upper limit that has yet to be fully tested. His leg muscles allow him to leap great distances and land without harm, and his skin can resist damage from heavy weaponry, as well as the natural elements and even unnatural ones.",
+          "The Hulk has grown somewhat more intelligent over the years, beginning with the mind of nearly an infant and progressing to what might be described as the personality of a toddler. His speech has increased from growls and roars, to one or two words at a time, to full sentences, albeit broken and naïve. Banner recognizes the Hulk as himself, but often refers to him as “the other guy,” while his alter-ego seems to have little love or respect for the mild scientist and may not even be cognizant that Banner is himself.",
+          "The doctor transforms into the Hulk during moments of stress, anxiety, and most of all anger. The change can reverse itself if the Hulk reaches a state of calm, either by himself or through a special mantra utilized by his fellow Avengers, most notably Natasha Romanoff, the Black Widow."
+        ],
+        [
+          "Hulk Smash!",
+          "Since his battle with the Abomination on the streets of Harlem, New York, the Hulk has tested his mettle against a crop of powerful opponents while as an Avenger and on his own. These include the alien Chitauri forces and their flying leviathans, the Asgardian trickster Loki, the high-tech soldiers of Hydra, Iron Man’s powerful “Hulkbuster” armor, the robotic despot Ultron, and Thor himself in the Sakaarian arenas of the Grandmaster.",
+          "While no physical match for the green giant, one might view General “Thunderbolt” Ross as the Hulk’s strongest and most persistent foe, in the sense of the man’s dogged pursuit of Banner and his alter-ego and his casual willingness to subvert the doctor’s life’s work into weaponry for the U. S. military. In terms of sheer power, the tyrant Thanos has given the Hulk a run for his money and bested him in direct combat.",
+          "While the Hulk has faced strong foes before, none so definitively beat him in combat as Thanos, who was able to quickly subdue the jade giant when they fought. Hulk’s subsequent refusal to physical manifest himself may be due to that encounter, even as Bruce Banner continues the fight against Thanos and his followers."
+        ],
+        [
+          "Hulk Make Friend!",
+          "While at the university at which he did his initial gamma research, Bruce Banner was romantically involved with his partner, Dr. Betty Ross. After becoming the Hulk, he seemed to maintain his memory and knowledge of the relationship and gravitated toward Betty to protect her from harm. After the Hulk’s first real battle with another creature nearly as strong as himself, he was prevented from killing his foe by Betty and fled the area without her, which seems to have been the last time they were in contact.",
+          "After allying himself with the Avengers, Banner entered into a complex romantic relationship with Natasha Romanoff, the master spy called the Black Widow. At first, Banner resisted his feelings for Romanoff, citing his inability to live a normal life as a reason to maintain a platonic partnership with her. The Black Widow convinced him otherwise and for a brief moment it seemed the two might find happiness together, before the Hulk decided to leave, likely reflecting Banner’s own concerns.",
+          "Both Banner and the Hulk have witnessed a friendship flourish with the Asgardian Thor, a fellow Avenger. At first, the two struggled through violent clashes and petty arguments over who was the strongest, but these contests led to camaraderie during their time as enslaved gladiators on the planet Sakaar. In Thor, the Hulk may have finally found his truest companion.",
+          "Tony Stark has also reached out to Bruce Banner as a peer in the realm of science, and as a man who suffers from a debilitation much like he himself once did. Together, the two have worked together on projects seemingly as one mind, though Banner has raised objections to what he feels are moral and ethical gaps in Stark’s push to advance technology."
+        ],
+        [
+          "Evergreen Adventures",
+          "Bruce Banner spent five years hiding from Ross and the army, until finally settling in Brazil to focus his search for a cure in plant research and mind-relaxing techniques. During this time, he communicated with cellular biologist Doctor Samuel Sterns back in the U.S., but the unintended transportation of Banner’s irradiated blood to a man in Milwaukee exposed his whereabouts to “Thunderbolt” Ross and his operative, Emil Blonsky. Banner reentered the country to try and recover his original research data from Culver University, but that meant the Hulk came with him and not even a reunion with Betty Ross could quell the angered beast.",
+          "After making his way first to Smoky Mountains National Forest and then the steel canyons of New York, Bruce Banner was forced to pit his alter-ego against a gamma-transformed Blonsky, the duplicity of Dr. Sterns, and the ever-looming “Thunderbolt” Ross. The Hulk defeated Blonsky and moved in for the kill, but Betty Ross stopped him from crossing this line and he fled once again. Soon after, in seclusion, Banner began to try and gain more control over the Hulk.",
+          "Sometime later, S.H.I.E.L.D.’s Nick Fury dispatched his operative Natasha Romanoff, the Black Widow, to approach Banner in India and convince him to join the so-called Avengers Initiative. Unfortunately, the team’s first mission, to prevent Loki’s despoiling of the planet with the mystical Tesseract device, brought the Hulk and his other potential teammates into the trickster’s crosshairs, resulting in a furious battle onboard the S.H.I.E.L.D. Helicarrier between Hulk and Thor. During that fight, the Hulk crashed down to Earth and transformed back into Banner, and then made his way back to New York. Explaining to his fellow Avengers that he was in fact always, on some level, angry, he was able to consciously transform into the Hulk to assist the Avengers in their fight against aliens brought to Earth by Loki’s machinations, and the would-be conquerors were ultimately defeated.",
+          "Following the Avengers’ first victory, Banner spent time with Tony Stark for scientific pursuits and even acted as a sounding board for Stark to share his troubles with, after the billionaire suffered through post-traumatic stress disorder. With somewhat more say in the Hulk’s appearances, Banner joined the Avengers on missions to root out the terrorist organization Hydra around the globe, though he remained wary of his changes into the beast. The Avengers found that a certain lullaby, typically said by the Black Widow, was able to calm the Hulk and help him revert back to Banner, when the Hulk’s strength was no longer needed. During this time, Banner developed feelings for Natasha Romanoff, though he was also hesitant about beginning a romantic relationship, fearful of its potential pitfalls, given his situation.",
+          "Banner initially expressed disapproval for Tony Stark’s desire to use a power source found in Loki’s scepter to develop a planet-wide security system. Those doubts were unfortunately proven right when he agreed to aid Stark in the project, only for the destructive robot known as Ultron to be born as a result. The situation brought even more challenges for Banner when a young woman named Wanda Maximoff, working with Ultron at the time, used her mind-warping abilities to send the Hulk on another, even more mindless rampage in South Africa, prompting Iron Man to utilize a special suit of armor crafted specifically for halting the green giant’s anger-fueled attack. Hiding out with the Avengers at Clint Barton AKA Hawkeye’s farm home after the South African incident, Banner and Romanoff discussed their burgeoning feelings and the possibility of leaving the team and going off together. However, after the Avengers defeated Ultron with the Hulk’s help, the Hulk himself, seemingly guided by Banner’s own regretful wishes, chose to remove himself from further harming his friends and the world around him. He refused to return to the team, including Natasha, and flew off in a Quinjet.",
+          "Subsequently, a wormhole brought the Quinjet containing the Hulk to the far-off planet Sakaar. There he found what seemed a fitting place for a being such as himself—as a fighter in the Grandmaster’s gladiator arena. Besting all others in battle, he soon became the Grandmaster’s beloved champion and remained the Hulk at all times, never changing back into Bruce Banner. When his fellow Avenger Thor arrived on the planet and was forced into the arena as well, the Hulk was pitted against him. The fight that ensued ended somewhat indecisively for the satisfaction of either. In the aftermath of their fight, the Hulk, while bonding more with Thor, initially didn’t want to help his fellow Avenger in his plan to escape. When the Hulk attempted to stop Thor from using the Avengers Quinjet to leave Sakaar, a recording of Romanoff onboard made the creature transform back into Banner for the first time in two years.",
+          "The Hulk had damaged the Quinjet beyond repair. So, Thor, aided by Loki, found another ship to leave Sakaar and return to his native Asgard to reclaim the throne from his older sister Hela, with Banner and the warrior Valkyrie accompanying him. Overcoming his concerns that transforming back into the Hulk could result in never returning to his human form, Banner chose to allow his alter-ego to resurface after Hela unleashed her giant wolf, Fenris, against the surviving Asgardians. As the Hulk, he defeated the huge animal. In the meantime, Thor put an end to Hela, albeit at the cost of Asgard itself. Upon Asgard’s destruction, the Hulk—still having not changed back into Banner—joined the remaining Asgardians on a space ship launched into the cosmos to find a new home. He was present as Thor accepted his new role as the leader of his people.",
+          "The ship was discovered by the space tyrant Thanos soon after and he decimated the Asgardians to find the Infinity Stone Loki harbored. The Hulk attacked Thanos, but was bested by him in combat and then transported back to Earth by Heimdall’s last action.",
+          "Crashing into Doctor Strange’s Sanctum in New York City, the Hulk changed back to Bruce Banner, who informed Strange, Wong, and Tony Stark of the tyrant’s intention to come to Earth to claim the Infinity Stones that were on the planet. When two of Thanos’ followers arrived to try and take the Infinity Stone in the possession of Doctor Strange, Banner found himself now unable to transform back into the Hulk at all—with the Hulk outright resisting any attempt to get him to manifest.",
+          "When Iron Man was taken off planet, Banner called in Steve Rogers for help, and in doing so was reunited with Natasha Romanoff, along with several of his Avengers teammates. Banner then traveled with Cap and his crew to Wakanda to protect the Infinity Stone that gave the android Vision artificial life. There, he conferred with the brilliant inventor Shuri on how to remove the Stone and destroy it without harming Vision. To give Shuri time to perform the operation, Banner donned Stark’s “Hulkbuster” armor to fight alongside the Black Panther and his Wakandan army, along with his fellow Avengers, against an army of Thanos’ followers. However, when Thanos himself arrived and successfully claimed the last of the six Stones, the battle was lost. Half of all life in the universe disintegrated when the tyrant willed it to happen, leaving Banner and only a few remaining Avengers and allies to try to make sense of the tragedy."
+        ]
+      ]
     }
   ]
 }

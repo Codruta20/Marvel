@@ -14,6 +14,8 @@ export class CharacterDetailsComponent implements OnInit {
   name = '';
   characterDetails: any;
 
+  paragraphTitle: any;
+
   constructor(private route: ActivatedRoute) {}
 
   ngOnInit(): void {
@@ -26,6 +28,10 @@ export class CharacterDetailsComponent implements OnInit {
     this.characterDetails = this.characters
       .filter((character) => character.name == this.name)
       .pop();
-    console.log(this.characterDetails);
+
+    this.paragraphTitle = this.characterDetails.description.map(function (x) {
+      return x[0];
+    });
+    console.log(this.paragraphTitle);
   }
 }

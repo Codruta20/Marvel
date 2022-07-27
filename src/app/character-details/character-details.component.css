@@ -1,17 +1,37 @@
 img {
-  width: 300px;
+  width: 100%;
+  object-fit: cover;
+  max-height: 500px;
+  object-position: center top;
 }
 
-.details-box {
-  background: #f9f9f9;
-  color: #000;
-  font-size: 90%;
-  line-height: 1.1em;
-  float: right;
-  clear: right;
-  margin: 0 0 0.5em 1em;
-  width: 300px;
-  border: 1px solid #aaa;
-  padding: 0.1em;
-  border-spacing: 0;
+.container-text-img {
+  position: relative;
+  text-align: center;
+}
+
+.text {
+  color: white;
+}
+
+.p-small {
+  color: white;
+  font-size: 20px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  text-align: left;
+  padding: 10px;
+  width: 400px;
+  text-align: justify;
+  left: 27%;
+  transform: translate(-50%, -50%);
+}
+
+.title-paragraph {
+  color: black;
+  /* font-weight: bold; */
+  font-size: 20px;
 }

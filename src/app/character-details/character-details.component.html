@@ -1,1 +1,18 @@
-<div class="container-cards"></div>
+<div class="container-text-img">
+  <img [src]="characterDetails.imageLarge" />
+
+  <div class="centered text">
+    <h1>{{ characterDetails.name | uppercase }}</h1>
+    <div>
+      {{ characterDetails.shortDescription }}
+    </div>
+  </div>
+</div>
+
+<div class="container-cards">
+  <div *ngFor="let desc of characterDetails.description">
+    <div *ngFor="let paragraph of desc; let i = index">
+      <p [ngClass]="{ 'title-paragraph': i === 0 }">{{ paragraph }}</p>
+    </div>
+  </div>
+</div>
