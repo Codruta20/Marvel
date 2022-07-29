@@ -1,0 +1,10 @@
+.img-background {
+  width: 100%;
+  object-fit: cover;
+  max-height: 500px;
+  object-position: center top;
+}
+
+.img-poster {
+  max-height: 500px;
+}

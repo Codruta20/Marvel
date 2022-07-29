@@ -2,7 +2,8 @@
   "movies": [
     {
       "name": "Avengers: Age of Ultron",
-      "image": "./assets/Movies/Avengers Age of Ultron.jpg"
+      "image": "./assets/Movies/Avengers Age of Ultron.jpg",
+      "background": "./assets/Movies background/Avengers Age of Ultron.jpg"
     },
     {
       "name": "Avengers: Endgame",
