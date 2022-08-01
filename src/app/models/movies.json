@@ -3,71 +3,257 @@
     {
       "name": "Avengers: Age of Ultron",
       "image": "./assets/Movies/Avengers Age of Ultron.jpg",
-      "background": "./assets/Movies background/Avengers Age of Ultron.jpg"
+      "background": "./assets/Movies background/Avengers Age of Ultron.jpg",
+      "description": "When Tony Stark (Robert Downey Jr.) jump-starts a dormant peacekeeping program, things go terribly awry, forcing him, Thor (Chris Hemsworth), the Incredible Hulk (Mark Ruffalo) and the rest of the Avengers to reassemble. As the fate of Earth hangs in the balance, the team is put to the ultimate test as they battle Ultron, a technological terror hell-bent on human extinction. Along the way, they encounter two mysterious and powerful newcomers, Pietro and Wanda Maximoff.",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "original_language": "English",
+      "director": "Joss Whedon",
+      "producer": "Kevin Feige",
+      "writer": "Joss Whedon",
+      "release_date": "May 1, 2015",
+      "runtime": "2h 21m",
+      "trailer": "https://www.youtube.com/embed/tmeOjFno6Do?controls=0"
     },
     {
       "name": "Avengers: Endgame",
-      "image": "./assets/Movies/Avengers Endgame.jpg"
+      "image": "./assets/Movies/Avengers Endgame.jpg",
+      "background": "./assets/Movies background/Avengers Endgame.jpg",
+      "description": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "original_language": "English",
+      "director": "Anthony Russo, Joe Russo",
+      "producer": "Kevin Feige",
+      "writer": "Christopher Markus, Stephen McFeely",
+      "release_date": "Apr 26, 2019",
+      "runtime": "3h 1m",
+      "trailer": "https://www.youtube.com/embed/TcMBFSGVi1c?controls=0"
     },
     {
       "name": "Avengers: Infinity War",
-      "image": "./assets/Movies/Avengers Infinity War.jpg"
+      "image": "./assets/Movies/Avengers Infinity War.jpg",
+      "background": "./assets/Movies background/Avengers Infinity War.jpg",
+      "description": "Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality. The fate of the planet and existence itself has never been more uncertain as everything the Avengers have fought for has led up to this moment.",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "original_language": "English",
+      "director": "Anthony Russo, Joe Russo",
+      "producer": "Kevin Feige",
+      "writer": "Christopher Markus, Stephen McFeely",
+      "release_date": "Apr 27, 2018",
+      "runtime": "2h 29m",
+      "trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8?controls=0"
     },
     {
       "name": "Captain America: The First Avenger",
-      "image": "./assets/Movies/Captain America The First Avenger.jpg"
+      "image": "./assets/Movies/Captain America The First Avenger.jpg",
+      "background": "./assets/Movies background/Captain America The First Avenger.jpg",
+      "description": "It is 1941 and the world is in the throes of war. Steve Rogers (Chris Evans) wants to do his part and join America's armed forces, but the military rejects him because of his small stature. Finally, Steve gets his chance when he is accepted into an experimental program that turns him into a supersoldier called Captain America. Joining forces with Bucky Barnes (Sebastian Stan) and Peggy Carter (Hayley Atwell), Captain America leads the fight against the Nazi-backed HYDRA organization.",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy",
+      "original_language": "English",
+      "director": "Joe Johnston",
+      "producer": "Kevin Feige",
+      "writer": "Christopher Markus, Stephen McFeely",
+      "release_date": "Jul 22, 2011",
+      "runtime": "2h 4m",
+      "trailer": "https://www.youtube.com/embed/JerVrbLldXw?controls=0"
     },
     {
       "name": "Captain America: The Winter Soldier",
-      "image": "./assets/Movies/Captain America The Winter Soldier.jpg"
+      "image": "./assets/Movies/Captain America The Winter Soldier.jpg",
+      "background": "./assets/Movies background/Captain America The Winter Soldier.jpg",
+      "description": "After the cataclysmic events in New York with his fellow Avengers, Steve Rogers, aka Captain America (Chris Evans), lives in the nation's capital as he tries to adjust to modern times. An attack on a S.H.I.E.L.D. colleague throws Rogers into a web of intrigue that places the whole world at risk. Joining forces with the Black Widow (Scarlett Johansson) and a new ally, the Falcon, Rogers struggles to expose an ever-widening conspiracy, but he and his team soon come up against an unexpected enemy.",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy",
+      "original_language": "English",
+      "director": "Anthony Russo, Joe Russo",
+      "producer": "Kevin Feige",
+      "writer": "Christopher Markus, Stephen McFeely",
+      "release_date": "Sep 9, 2014",
+      "runtime": "2h 15m",
+      "trailer": "https://www.youtube.com/embed/7SlILk2WMTI?controls=0"
     },
     {
       "name": "Doctor Strange: Multiverse of Madness",
-      "image": "./assets/Movies/Doctor Strange Multiverse of Madness.jpg"
+      "image": "./assets/Movies/Doctor Strange Multiverse of Madness.jpg",
+      "background": "./assets/Movies background/Doctor Strange Multiverse of Madness.jpg",
+      "description": "In Marvel Studios' \"Doctor Strange in the Multiverse of Madness,\" the MCU unlocks the Multiverse and pushes its boundaries further than ever before. Journey into the unknown with Doctor Strange, who, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy, Horror",
+      "original_language": "English",
+      "director": "Sam Raimi",
+      "producer": "Kevin Feige",
+      "writer": "Michael Waldron",
+      "release_date": "May 6, 2022",
+      "runtime": "2h 6m",
+      "trailer": "https://www.youtube.com/embed/aWzlQ2N6qqg?controls=0"
     },
     {
       "name": "Doctor Strange",
-      "image": "./assets/Movies/Doctor Strange.jpg"
+      "image": "./assets/Movies/Doctor Strange.jpg",
+      "background": "./assets/Movies background/Doctor Strange.jpg",
+      "description": "Dr. Stephen Strange's (Benedict Cumberbatch) life changes after a car accident robs him of the use of his hands. When traditional medicine fails him, he looks for healing, and hope, in a mysterious enclave. He quickly learns that the enclave is at the front line of a battle against unseen dark forces bent on destroying reality. Before long, Strange is forced to choose between his life of fortune and status or leave it all behind to defend the world as the most powerful sorcerer in existence.",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy",
+      "original_language": "English",
+      "director": "Scott Derrickson",
+      "producer": "Kevin Feige",
+      "writer": "Jon Spaihts, Scott Derrickson, C. Robert Cargill",
+      "release_date": "Nov 4, 2016 ",
+      "runtime": "1h 55m",
+      "trailer": "https://www.youtube.com/embed/Lt-U_t2pUHI?controls=0"
     },
     {
       "name": "Eternals",
-      "image": "./assets/Movies/Eternals.jpg"
+      "image": "./assets/Movies/Eternals.jpg",
+      "background": "./assets/Movies background/Eternals.jpg",
+      "description": "Marvel Studios' Eternals features an exciting new team of Super Heroes in the Marvel Cinematic Universe, ancient aliens who have been living on Earth in secret for thousands of years. Following the events of Avengers: Endgame, an unexpected tragedy forces them out of the shadows to reunite against mankind's most ancient enemy, the Deviants.",
+      "rating": "PG-13 ",
+      "genre": "Action, Adventure, Fantasy",
+      "original_language": "English",
+      "director": "Chloé Zhao",
+      "producer": "Kevin Feige, Nate Moore",
+      "writer": "Chloé Zhao, Ryan Firpo, Kaz Firpo",
+      "release_date": "Nov 5, 2021",
+      "runtime": "2h 37m",
+      "trailer": "https://www.youtube.com/embed/x_me3xsvDgk?controls=0"
     },
     {
       "name": "Guardians of the Galaxy",
-      "image": "./assets/Movies/Guardians of the Galaxy.jpg"
+      "image": "./assets/Movies/Guardians of the Galaxy.jpg",
+      "background": "./assets/Movies background/Guardians of The Galaxy.jpg",
+      "description": "Brash space adventurer Peter Quill (Chris Pratt) finds himself the quarry of relentless bounty hunters after he steals an orb coveted by Ronan, a powerful villain. To evade Ronan, Quill is forced into an uneasy truce with four disparate misfits: gun-toting Rocket Raccoon, treelike-humanoid Groot, enigmatic Gamora, and vengeance-driven Drax the Destroyer. But when he discovers the orb's true power and the cosmic threat it poses, Quill must rally his ragtag group to save the universe.",
+      "rating": "PG-13",
+      "genre": "Sci-Fi, Adventure, Action, Fantasy, Comedy",
+      "original_language": "English",
+      "director": "James Gunn",
+      "producer": "Kevin Feige",
+      "writer": "James Gunn, Nicole Perlman",
+      "release_date": "Aug 1, 2014",
+      "runtime": "2h 1m",
+      "trailer": "https://www.youtube.com/embed/d96cjJhvlMA?controls=0"
     },
     {
       "name": "Iron Man",
-      "image": "./assets/Movies/Iron Man.jpg"
+      "image": "./assets/Movies/Iron Man.jpg",
+      "background": "./assets/Movies background/Iron Man.jpg",
+      "description": "A billionaire industrialist and genius inventor, Tony Stark (Robert Downey Jr.), is conducting weapons tests overseas, but terrorists kidnap him to force him to build a devastating weapon. Instead, he builds an armored suit and upends his captors. Returning to America, Stark refines the suit and uses it to combat crime and terrorism.",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Sci-Fi, Fantasy",
+      "original_language": "English",
+      "director": "Jon Favreau",
+      "producer": "Avi Arad, Kevin Feige",
+      "writer": "Mark Fergus, Hawk Ostby, Art Marcum, Matt Holloway",
+      "release_date": "May 2, 2008",
+      "runtime": "2h 6m",
+      "trailer": "https://www.youtube.com/embed/8ugaeA-nMTc?controls=0"
     },
     {
       "name": "Iron Man 2",
-      "image": "./assets/Movies/Iron Man 2.jpg"
+      "image": "./assets/Movies/Iron Man 2.jpg",
+      "background": "./assets/Movies background/Iron Man 2.jpg",
+      "description": "With the world now aware that he is Iron Man, billionaire inventor Tony Stark (Robert Downey Jr.) faces pressure from all sides to share his technology with the military. He is reluctant to divulge the secrets of his armored suit, fearing the information will fall into the wrong hands. With Pepper Potts (Gwyneth Paltrow) and \"Rhodey\" Rhodes (Don Cheadle) by his side, Tony must forge new alliances and confront a powerful new enemy.",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Sci-Fi, Fantasy",
+      "original_language": "English",
+      "director": "Jon Favreau",
+      "producer": "Kevin Feige",
+      "writer": "Justin Theroux",
+      "release_date": "May 7, 2010",
+      "runtime": "2h 4m",
+      "trailer": "https://www.youtube.com/embed/BoohRoVA9WQ?controls=0"
     },
     {
       "name": "Iron Man 3",
-      "image": "./assets/Movies/Iron Man 3.jpg"
+      "image": "./assets/Movies/Iron Man 3.jpg",
+      "background": "./assets/Movies background/Iron Man 3.jpg",
+      "description": "Plagued with worry and insomnia since saving New York from destruction, Tony Stark (Robert Downey Jr.), now, is more dependent on the suits that give him his Iron Man persona -- so much so that every aspect of his life is affected, including his relationship with Pepper (Gwyneth Paltrow). After a malevolent enemy known as the Mandarin (Ben Kingsley) reduces his personal world to rubble, Tony must rely solely on instinct and ingenuity to avenge his losses and protect the people he loves.",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Sci-Fi, Fantasy",
+      "original_language": "English",
+      "director": "Shane Black",
+      "producer": "Kevin Feige",
+      "writer": "Drew Pearce, Shane Black",
+      "release_date": "May 3, 2013",
+      "runtime": "2h 10m",
+      "trailer": "https://www.youtube.com/embed/Ke1Y3P9D0Bc?controls=0"
     },
     {
       "name": "Spider-Man: No Way Home",
-      "image": "./assets/Movies/Spider-Man No Way Home.jpg"
+      "image": "./assets/Movies/Spider-Man No Way Home.jpg",
+      "background": "",
+      "description": "For the first time in the cinematic history of Spider-Man, our friendly neighborhood hero's identity is revealed, bringing his Super Hero responsibilities into conflict with his normal life and putting those he cares about most at risk. When he enlists Doctor Strange's help to restore his secret, the spell tears a hole in their world, releasing the most powerful villains who've ever fought a Spider-Man in any universe. Now, Peter will have to overcome his greatest challenge yet, which will not only forever alter his own future but the future of the Multiverse.",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy, Comedy",
+      "original_language": "English",
+      "director": "Jon Watts",
+      "producer": "Kevin Feige, Amy Pascal",
+      "writer": "Chris McKenna, Erik Sommers",
+      "release_date": "Dec 17, 2021",
+      "runtime": "2h 28m",
+      "trailer": "https://www.youtube.com/embed/JfVOs4VSpmA?controls=0"
     },
     {
       "name": "The Avengers",
-      "image": "./assets/Movies/The Avengers.jpg"
+      "image": "./assets/Movies/The Avengers.jpg",
+      "background": "./assets/Movies background/The Avengers.jpg",
+      "description": "When Thor's evil brother, Loki (Tom Hiddleston), gains access to the unlimited power of the energy cube called the Tesseract, Nick Fury (Samuel L. Jackson), director of S.H.I.E.L.D., initiates a superhero recruitment effort to defeat the unprecedented threat to Earth. Joining Fury's \"dream team\" are Iron Man (Robert Downey Jr.), Captain America (Chris Evans), the Hulk (Mark Ruffalo), Thor (Chris Hemsworth), the Black Widow (Scarlett Johansson) and Hawkeye (Jeremy Renner).",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "original_language": "English",
+      "director": "Joss Whedon",
+      "producer": "Kevin Feige",
+      "writer": "Joss Whedon",
+      "release_date": "May 4, 2012",
+      "runtime": "2h 23m",
+      "trailer": "https://www.youtube.com/embed/eOrNdBpGMv8?controls=0"
     },
     {
       "name": "Thor",
-      "image": "./assets/Movies/Thor.jpg"
+      "image": "./assets/Movies/Thor.jpg",
+      "background": "./assets/Movies background/Thor.jpg",
+      "description": "As the son of Odin (Anthony Hopkins), king of the Norse gods, Thor (Chris Hemsworth) will soon inherit the throne of Asgard from his aging father. However, on the day that he is to be crowned, Thor reacts with brutality when the gods' enemies, the Frost Giants, enter the palace in violation of their treaty. As punishment, Odin banishes Thor to Earth. While Loki (Tom Hiddleston), Thor's brother, plots mischief in Asgard, Thor, now stripped of his powers, faces his greatest threat.",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy",
+      "original_language": "English",
+      "director": "Kenneth Branagh",
+      "producer": "Kevin Feige",
+      "writer": "Ashley Miller, Zack Stentz, Don Payne",
+      "release_date": "May 6, 2011",
+      "runtime": "1h 53m",
+      "trailer": "https://www.youtube.com/embed/JOddp-nlNvQ?controls=0"
     },
     {
       "name": "Thor: The Dark World",
-      "image": "./assets/Movies/Thor The Dark World.jpg"
+      "image": "./assets/Movies/Thor The Dark World.jpg",
+      "background": "./assets/Movies background/Thor The Dark World.jpg",
+      "description": "In ancient times, the gods of Asgard fought and won a war against an evil race known as the Dark Elves. The survivors were neutralized, and their ultimate weapon -- the Aether -- was buried in a secret location. Hundreds of years later, Jane Foster (Natalie Portman) finds the Aether and becomes its host, forcing Thor (Chris Hemsworth) to bring her to Asgard before Dark Elf Malekith (Christopher Eccleston) captures her and uses the weapon to destroy the Nine Realms -- including Earth.",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy",
+      "original_language": "English",
+      "director": "Alan Taylor",
+      "producer": "Kevin Feige",
+      "writer": "Christopher Yost, Christopher Markus, Stephen McFeely",
+      "release_date": "Nov 8, 2013",
+      "runtime": "1h 51m",
+      "trailer": "https://www.youtube.com/embed/npvJ9FTgZbM?controls=0"
     },
     {
       "name": "Thor: Love and Thunder",
-      "image": "./assets/Movies/Thor Love and Thunder.jpg"
+      "image": "./assets/Movies/Thor Love and Thunder.jpg",
+      "background": "",
+      "description": "\"Thor: Love and Thunder\" finds Thor (Chris Hemsworth) on a journey unlike anything he's ever faced -- a quest for inner peace. But his retirement is interrupted by a galactic killer known as Gorr the God Butcher (Christian Bale), who seeks the extinction of the gods. To combat the threat, Thor enlists the help of King Valkyrie (Tessa Thompson), Korg (Taika Waititi) and ex-girlfriend Jane Foster (Natalie Portman), who -- to Thor's surprise -- inexplicably wields his magical hammer, Mjolnir, as the Mighty Thor. Together, they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher's vengeance and stop him before it's too late.",
+      "rating": "PG-13",
+      "genre": "Action, Adventure, Fantasy, Comedy",
+      "original_language": "English",
+      "director": "Taika Waititi",
+      "producer": "Kevin Feige",
+      "writer": "Taika Waititi, Jennifer Kaytin Robinson",
+      "release_date": "Jul 8, 2022",
+      "runtime": "2h 5m",
+      "trailer": "https://www.youtube.com/embed/Go8nTmfrQd8?controls=0"
     }
   ]
 }

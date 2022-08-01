@@ -1,3 +1,45 @@
 <img [src]="movieDetails.background" class="img-background" />
 
-<!-- <img [src]="movieDetails.image" class="img-poster" /> -->
+<div class="container-cards">
+  <div class="center">
+    <div class="bold">OVERVIEW</div>
+    <br />
+    <div>{{ movieDetails.description }}</div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item"><b>Rating:</b> {{ movieDetails.rating }}</li>
+      <li class="list-group-item"><b>Genre:</b> {{ movieDetails.genre }}</li>
+      <li class="list-group-item">
+        <b>Original Language:</b> {{ movieDetails.original_language }}
+      </li>
+      <li class="list-group-item">
+        <b>Director:</b> {{ movieDetails.director }}
+      </li>
+      <li class="list-group-item">
+        <b>Producer:</b> {{ movieDetails.producer }}
+      </li>
+      <li class="list-group-item"><b>Writer:</b> {{ movieDetails.writer }}</li>
+      <li class="list-group-item">
+        <b>Release Date:</b> {{ movieDetails.release_date }}
+      </li>
+      <li class="list-group-item">
+        <b>Runtime:</b> {{ movieDetails.runtime }}
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="container-cards">
+  <div class="center">
+    <div class="bold">OFFICIAL TRAILER</div>
+    <br />
+    <iframe
+      width="560"
+      height="315"
+      [src]="trailer"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+    ></iframe>
+  </div>
+</div>
