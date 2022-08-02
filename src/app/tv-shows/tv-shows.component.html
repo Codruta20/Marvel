@@ -2,7 +2,7 @@
   <div class="row row-cols-1 row-cols-md-4 g-4">
     <div
       *ngFor="let tvShow of tvShows"
-      routerLink="/tvShow-details"
+      routerLink="/tv-show-details"
       [queryParams]="{ name: tvShow.name }"
       class="col"
     >

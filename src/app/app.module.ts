@@ -20,9 +20,10 @@ import { ComicsComponent } from './comics/comics.component';
 import { TvShowsComponent } from './tv-shows/tv-shows.component';
 import { ComicsListComponent } from './comics-list/comics-list.component';
 import { MovieDetailsComponent } from './movie-details/movie-details.component';
+import { TvShowDetailsComponent } from './tv-show-details/tv-show-details.component';
 
 @NgModule({
-  declarations: [AppComponent, NavbarComponent, CarouselComponent, NavbarLogoComponent, FooterComponent, CardComponent, CharactersComponent, CharacterDetailsComponent, MoviesComponent, ComicsComponent, TvShowsComponent, ComicsListComponent, MovieDetailsComponent],
+  declarations: [AppComponent, NavbarComponent, CarouselComponent, NavbarLogoComponent, FooterComponent, CardComponent, CharactersComponent, CharacterDetailsComponent, MoviesComponent, ComicsComponent, TvShowsComponent, ComicsListComponent, MovieDetailsComponent, TvShowDetailsComponent],
   imports: [
     BrowserModule,
     NgbModule,

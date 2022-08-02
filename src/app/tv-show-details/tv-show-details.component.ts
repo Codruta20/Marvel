@@ -3,17 +3,17 @@ import { ActivatedRoute } from '@angular/router';
 import { filter } from 'rxjs/operators';
 import { DomSanitizer } from '@angular/platform-browser';
 
-import * as data from '../models/movies.json';
+import * as data from '../models/tvShows.json';
 
 @Component({
-  selector: 'app-movie-details',
-  templateUrl: './movie-details.component.html',
-  styleUrls: ['./movie-details.component.css'],
+  selector: 'app-tv-show-details',
+  templateUrl: './tv-show-details.component.html',
+  styleUrls: ['./tv-show-details.component.css'],
 })
-export class MovieDetailsComponent implements OnInit {
-  movies = data.movies;
+export class TvShowDetailsComponent implements OnInit {
+  tvShows = data.tvShows;
   name = '';
-  movieDetails: any;
+  tvShowDetails: any;
   trailer: any;
 
   constructor(
@@ -28,12 +28,12 @@ export class MovieDetailsComponent implements OnInit {
         this.name = params.name;
       });
 
-    this.movieDetails = this.movies
-      .filter((movie) => movie.name == this.name)
+    this.tvShowDetails = this.tvShows
+      .filter((param) => param.name == this.name)
       .pop();
 
     this.trailer = this._sanitizer.bypassSecurityTrustResourceUrl(
-      this.movieDetails.trailer
+      this.tvShowDetails.trailer
     );
   }
 }

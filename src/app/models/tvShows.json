@@ -2,27 +2,75 @@
   "tvShows": [
     {
       "name": "WandaVision",
-      "image": "./assets/TV Shows/WandaVision.jpg"
+      "image": "./assets/TV Shows/WandaVision.jpg",
+      "background": "./assets/TV Shows background/Wandavision.jpg",
+      "description": "Marvel Studios' captivating new series \"WandaVision,\" which premieres in early 2021 on Disney+. Starring Elizabeth Olsen and Paul Bettany, \"WandaVision\" marks the first series from Marvel Studios streaming exclusively on Disney+. The series is a blend of classic television and the Marvel Cinematic Universe in which Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+      "network": "Disney+",
+      "director": "Matt Shakman",
+      "head_writer": "Jac Shaeffer",
+      "cast": "Elizabeth Olsen, Paul Bettany, Kat Dennings, Kathryn Hahn, Randall Park and Teyonah Parris",
+      "release_date": "January 15, 2021",
+      "trailer": "https://www.youtube.com/embed/sj9J2ecsSpo"
     },
     {
       "name": "The Falcon and The Winter Soldier",
-      "image": "./assets/TV Shows/The Falcon and The Winter Soldier.jpg"
+      "image": "./assets/TV Shows/The Falcon and The Winter Soldier.jpg",
+      "background": "./assets/TV Shows background/Falcon And The Winter Soldier.jpg",
+      "description": "Following the events of “Avengers: Endgame,” Sam Wilson/Falcon (Anthony Mackie) and Bucky Barnes/Winter Soldier (Sebastian Stan) team up in a global adventure that tests their abilities—and their patience—in Marvel Studios’ “The Falcon and The Winter Soldier.” The all-new series is directed by Kari Skogland; Malcolm Spellman is the head writer. Streaming exclusively on Disney+.",
+      "network": "Disney+",
+      "director": "Kari Skogland",
+      "head_writer": "Malcolm Spellman",
+      "cast": "Anthony Mackie, Sebastian Stan, Daniel Brühl, Emily VanCamp and Wyatt Russell",
+      "release_date": "March 19, 2021",
+      "trailer": "https://www.youtube.com/embed/IWBsDaFWyTE"
     },
     {
       "name": "Loki",
-      "image": "./assets/TV Shows/Loki.jpg"
+      "image": "./assets/TV Shows/Loki.jpg",
+      "background": "./assets/TV Shows background/Loki.jpg",
+      "description": "In Marvel Studios’ “Loki,” the mercurial villain Loki (Tom Hiddleston) resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.” Kate Herron directs and Michael Waldron is head writer.",
+      "network": "Disney+",
+      "director": "Kate Herron",
+      "head_writer": "Michael Waldron",
+      "cast": "Tom Hiddleston, Owen Wilson, Gugu Mbatha-Raw, Sophia Di Martino, Wunmi Mosaku and Richard E. Grant",
+      "release_date": "June 9, 2021",
+      "trailer": "https://www.youtube.com/embed/nW948Va-l10"
     },
     {
       "name": "Moon Knight",
-      "image": "./assets/TV Shows/Moon Knight.jpg"
+      "image": "./assets/TV Shows/Moon Knight.jpg",
+      "background": "./assets/TV Shows background/Moon Knight.jpg",
+      "description": "Moon Knight follows Steven Grant, a mild-mannered gift-shop employee, who becomes plagued with blackouts and memories of another life. Steven discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc's enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
+      "network": "Disney+",
+      "director": "Mohamed Diab",
+      "head_writer": "Jeremy Slater",
+      "cast": "Oscar Isaac, Ethan Hawke and May Calamawy",
+      "release_date": "March 30, 2022",
+      "trailer": "https://www.youtube.com/embed/x7Krla_UxRg"
     },
     {
       "name": "Hawkeye",
-      "image": "./assets/TV Shows/Hawkeye.jpg"
+      "image": "./assets/TV Shows/Hawkeye.jpg",
+      "background": "./assets/TV Shows background/Hawkeye.jpg",
+      "description": "Marvel Studios’ “Hawkeye” stars Jeremy Renner as Hawkeye, who teams up with another well-known archer from the Marvel comics, Kate Bishop, played by Hailee Steinfeld. The cast also includes Vera Farmiga, Fra Fee, Tony Dalton, Zahn McClarnon, Brian d’Arcy James and newcomer Alaqua Cox as Maya Lopez. “Hawkeye” is helmed by Rhys Thomas and directing duo Bert and Bertie.",
+      "network": "Disney+",
+      "director": "Rhys Thomas, Bert and Bertie",
+      "head_writer": "Jonathan Igla",
+      "cast": "Jeremy Renner, Hailee Steinfield, Vera Farmiga, Fra Fee, Tony Dalton, Zahn McClarnon, Brian d’Arcy James, and Alaqua Cox",
+      "release_date": "November 24, 2021",
+      "trailer": "https://www.youtube.com/embed/5VYb3B1ETlk"
     },
     {
       "name": "What If...?",
-      "image": "./assets/TV Shows/What If.jpg"
+      "image": "./assets/TV Shows/What If.jpg",
+      "background": "./assets/TV Shows background/What If.jpg",
+      "description": "“What If…?” flips the script on the MCU, reimagining famous events from the films in unexpected ways. Marvel Studios’ first animated series focuses on different heroes from the MCU, featuring a voice cast that includes a host of stars who reprise their roles.",
+      "network": "Disney+",
+      "director": "Bryan Andrew",
+      "head_writer": "AC Bradley",
+      "cast": "Jeffrey Wright, Hayley Atwell",
+      "release_date": "August 11, 2021",
+      "trailer": "https://www.youtube.com/embed/x9D0uUKJ5KI"
     }
   ]
 }
