@@ -3,6 +3,7 @@ import { ActivatedRoute } from '@angular/router';
 import { filter } from 'rxjs/operators';
 
 import data from '../models/comicsList.json';
+import * as dataComic from '../models/comics.json';
 
 @Component({
   selector: 'app-comics-list',
@@ -11,8 +12,10 @@ import data from '../models/comicsList.json';
 })
 export class ComicsListComponent implements OnInit {
   comicsData = data;
+  comics = dataComic.comics;
   name = '';
   comicsList: any;
+  comic: any;
 
   constructor(private route: ActivatedRoute) {
     this.route.queryParams
@@ -21,8 +24,8 @@ export class ComicsListComponent implements OnInit {
         this.name = params.name;
       });
     this.comicsList = this.comicsData[this.name];
-    console.log(this.comicsList);
-    console.log(this.comicsList[0].name);
+
+    this.comic = this.comics.filter((comic) => comic.name == this.name).pop();
   }
 
   ngOnInit(): void {}
