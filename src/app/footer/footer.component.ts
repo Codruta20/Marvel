@@ -6,6 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./footer.component.css'],
 })
 export class FooterComponent implements OnInit {
+  date: any;
+
   logos = [
     {
       name: 'Twitter',
@@ -31,5 +33,7 @@ export class FooterComponent implements OnInit {
 
   constructor() {}
 
-  ngOnInit(): void {}
+  ngOnInit(): void {
+    this.date = new Date();
+  }
 }
