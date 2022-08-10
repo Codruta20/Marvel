@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
@@ -23,7 +24,22 @@ import { MovieDetailsComponent } from './movie-details/movie-details.component';
 import { TvShowDetailsComponent } from './tv-show-details/tv-show-details.component';
 
 @NgModule({
-  declarations: [AppComponent, NavbarComponent, CarouselComponent, NavbarLogoComponent, FooterComponent, CardComponent, CharactersComponent, CharacterDetailsComponent, MoviesComponent, ComicsComponent, TvShowsComponent, ComicsListComponent, MovieDetailsComponent, TvShowDetailsComponent],
+  declarations: [
+    AppComponent,
+    NavbarComponent,
+    CarouselComponent,
+    NavbarLogoComponent,
+    FooterComponent,
+    CardComponent,
+    CharactersComponent,
+    CharacterDetailsComponent,
+    MoviesComponent,
+    ComicsComponent,
+    TvShowsComponent,
+    ComicsListComponent,
+    MovieDetailsComponent,
+    TvShowDetailsComponent,
+  ],
   imports: [
     BrowserModule,
     NgbModule,
@@ -32,6 +48,7 @@ import { TvShowDetailsComponent } from './tv-show-details/tv-show-details.compon
     NgbModule,
     CarouselModule,
     AppRoutingModule,
+    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppComponent, CarouselComponent],

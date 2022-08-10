@@ -1,5 +1,8 @@
 import { Component, OnInit } from '@angular/core';
-import * as data from '../models/characters.json';
+
+import { HttpClient } from '@angular/common/http';
+import { Observable } from 'rxjs';
+import { map } from 'rxjs/operators';
 
 @Component({
   selector: 'app-characters',
@@ -7,9 +10,20 @@ import * as data from '../models/characters.json';
   styleUrls: ['./characters.component.css'],
 })
 export class CharactersComponent implements OnInit {
-  characters = data.characters;
+  characters = [];
 
-  constructor() {}
+  constructor(private http: HttpClient) {}
 
-  ngOnInit(): void {}
+  ngOnInit(): void {
+    this.getCharacters();
+  }
+
+  getCharacters() {
+    return this.http
+      .get('http://localhost:3000/characters')
+      .subscribe((apiResponse: any) => {
+        this.characters = apiResponse;
+        console.log(this.characters);
+      });
+  }
 }

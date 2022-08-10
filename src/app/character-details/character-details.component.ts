@@ -2,7 +2,9 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { filter } from 'rxjs/operators';
 
-import * as data from '../models/characters.json';
+import { HttpClient } from '@angular/common/http';
+import { Observable } from 'rxjs';
+import { map } from 'rxjs/operators';
 
 @Component({
   selector: 'app-character-details',
@@ -10,13 +12,12 @@ import * as data from '../models/characters.json';
   styleUrls: ['./character-details.component.css'],
 })
 export class CharacterDetailsComponent implements OnInit {
-  characters = data.characters;
   name = '';
   characterDetails: any;
 
   paragraphTitle: any;
 
-  constructor(private route: ActivatedRoute) {}
+  constructor(private route: ActivatedRoute, private http: HttpClient) {}
 
   ngOnInit(): void {
     this.route.queryParams
@@ -25,13 +26,20 @@ export class CharacterDetailsComponent implements OnInit {
         this.name = params.name;
       });
 
-    this.characterDetails = this.characters
-      .filter((character) => character.name == this.name)
-      .pop();
+    this.getCharacters();
 
     this.paragraphTitle = this.characterDetails.description.map(function (x) {
       return x[0];
     });
-    console.log(this.paragraphTitle);
+  }
+
+  getCharacters() {
+    return this.http
+      .get('http://localhost:3000/characters')
+      .subscribe((apiResponse: any) => {
+        this.characterDetails = apiResponse
+          .filter((character) => character.name == this.name)
+          .pop();
+      });
   }
 }
