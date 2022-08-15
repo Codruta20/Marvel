@@ -23,7 +23,6 @@ export class CharactersComponent implements OnInit {
       .get('http://localhost:3000/characters')
       .subscribe((apiResponse: any) => {
         this.characters = apiResponse;
-        console.log(this.characters);
       });
   }
 }
