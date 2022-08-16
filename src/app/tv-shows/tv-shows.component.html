@@ -1,7 +1,7 @@
 <div class="container-cards">
   <div class="row row-cols-1 row-cols-md-4 g-4">
     <div
-      *ngFor="let tvShow of tvShows"
+      *ngFor="let tvShow of tvShows$ | async"
       routerLink="/tv-show-details"
       [queryParams]="{ name: tvShow.name }"
       class="col"

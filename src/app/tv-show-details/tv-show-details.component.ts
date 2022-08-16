@@ -4,8 +4,6 @@ import { filter } from 'rxjs/operators';
 import { DomSanitizer } from '@angular/platform-browser';
 
 import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs';
-import { map } from 'rxjs/operators';
 
 @Component({
   selector: 'app-tv-show-details',

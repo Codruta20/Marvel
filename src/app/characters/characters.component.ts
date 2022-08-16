@@ -1,8 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
 import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs';
-import { map } from 'rxjs/operators';
 
 @Component({
   selector: 'app-characters',
@@ -10,19 +8,9 @@ import { map } from 'rxjs/operators';
   styleUrls: ['./characters.component.css'],
 })
 export class CharactersComponent implements OnInit {
-  characters = [];
+  characters$ = this.http.get('http://localhost:3000/characters');
 
   constructor(private http: HttpClient) {}
 
-  ngOnInit(): void {
-    this.getCharacters();
-  }
-
-  getCharacters() {
-    return this.http
-      .get('http://localhost:3000/characters')
-      .subscribe((apiResponse: any) => {
-        this.characters = apiResponse;
-      });
-  }
+  ngOnInit(): void {}
 }

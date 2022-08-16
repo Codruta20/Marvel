@@ -3,8 +3,6 @@ import { ActivatedRoute } from '@angular/router';
 import { filter } from 'rxjs/operators';
 
 import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs';
-import { map } from 'rxjs/operators';
 
 @Component({
   selector: 'app-character-details',
