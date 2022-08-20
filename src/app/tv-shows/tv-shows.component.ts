@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
-import { HttpClient } from '@angular/common/http';
+import { MarvelDataServiceService } from '../marvel-data-service.service';
 
 @Component({
   selector: 'app-tv-shows',
@@ -8,9 +8,11 @@ import { HttpClient } from '@angular/common/http';
   styleUrls: ['./tv-shows.component.css'],
 })
 export class TvShowsComponent implements OnInit {
-  tvShows$ = this.http.get('http://localhost:3000/tvShows');
+  tvShows$: any;
 
-  constructor(private http: HttpClient) {}
+  constructor(private marvelService: MarvelDataServiceService) {}
 
-  ngOnInit(): void {}
+  ngOnInit(): void {
+    this.tvShows$ = this.marvelService.getTvShows();
+  }
 }

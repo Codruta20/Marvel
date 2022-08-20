@@ -22,6 +22,7 @@ import { TvShowsComponent } from './tv-shows/tv-shows.component';
 import { ComicsListComponent } from './comics-list/comics-list.component';
 import { MovieDetailsComponent } from './movie-details/movie-details.component';
 import { TvShowDetailsComponent } from './tv-show-details/tv-show-details.component';
+import { MarvelDataServiceService } from '../app/marvel-data-service.service';
 
 @NgModule({
   declarations: [
@@ -50,7 +51,7 @@ import { TvShowDetailsComponent } from './tv-show-details/tv-show-details.compon
     AppRoutingModule,
     HttpClientModule,
   ],
-  providers: [],
+  providers: [MarvelDataServiceService],
   bootstrap: [AppComponent, CarouselComponent],
 })
 export class AppModule {}

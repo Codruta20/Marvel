@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
-import { HttpClient } from '@angular/common/http';
+import { MarvelDataServiceService } from '../marvel-data-service.service';
 
 @Component({
   selector: 'app-characters',
@@ -8,9 +8,11 @@ import { HttpClient } from '@angular/common/http';
   styleUrls: ['./characters.component.css'],
 })
 export class CharactersComponent implements OnInit {
-  characters$ = this.http.get('http://localhost:3000/characters');
+  characters$: any;
 
-  constructor(private http: HttpClient) {}
+  constructor(private marvelService: MarvelDataServiceService) {}
 
-  ngOnInit(): void {}
+  ngOnInit(): void {
+    this.characters$ = this.marvelService.getCharacters();
+  }
 }
