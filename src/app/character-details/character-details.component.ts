@@ -3,6 +3,7 @@ import { ActivatedRoute } from '@angular/router';
 import { filter } from 'rxjs/operators';
 
 import { HttpClient } from '@angular/common/http';
+import { MarvelDataServiceService } from '../marvel-data-service.service';
 
 @Component({
   selector: 'app-character-details',
@@ -15,7 +16,11 @@ export class CharacterDetailsComponent implements OnInit {
 
   paragraphTitle: any;
 
-  constructor(private route: ActivatedRoute, private http: HttpClient) {}
+  constructor(
+    private route: ActivatedRoute,
+    private http: HttpClient,
+    private marvelService: MarvelDataServiceService
+  ) {}
 
   ngOnInit(): void {
     this.route.queryParams
@@ -24,20 +29,14 @@ export class CharacterDetailsComponent implements OnInit {
         this.name = params.name;
       });
 
-    this.getCharacters();
+    this.marvelService.getCharacters().subscribe((apiResponse: any) => {
+      this.characterDetails = apiResponse
+        .filter((character) => character.name == this.name)
+        .pop();
+    });
 
     this.paragraphTitle = this.characterDetails.description.map(function (x) {
       return x[0];
     });
-  }
-
-  getCharacters() {
-    return this.http
-      .get('http://localhost:3000/characters')
-      .subscribe((apiResponse: any) => {
-        this.characterDetails = apiResponse
-          .filter((character) => character.name == this.name)
-          .pop();
-      });
   }
 }

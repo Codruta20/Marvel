@@ -3,7 +3,7 @@ import { ActivatedRoute } from '@angular/router';
 import { filter } from 'rxjs/operators';
 import { DomSanitizer } from '@angular/platform-browser';
 
-import { HttpClient } from '@angular/common/http';
+import { MarvelDataServiceService } from '../marvel-data-service.service';
 
 @Component({
   selector: 'app-tv-show-details',
@@ -18,7 +18,7 @@ export class TvShowDetailsComponent implements OnInit {
   constructor(
     private route: ActivatedRoute,
     private _sanitizer: DomSanitizer,
-    private http: HttpClient
+    private marvelService: MarvelDataServiceService
   ) {}
 
   ngOnInit(): void {
@@ -32,16 +32,14 @@ export class TvShowDetailsComponent implements OnInit {
   }
 
   getTvShows() {
-    return this.http
-      .get('http://localhost:3000/tvShows')
-      .subscribe((apiResponse: any) => {
-        this.tvShowDetails = apiResponse
-          .filter((movie) => movie.name == this.name)
-          .pop();
+    this.marvelService.getTvShows().subscribe((apiResponse: any) => {
+      this.tvShowDetails = apiResponse
+        .filter((movie) => movie.name == this.name)
+        .pop();
 
-        this.trailer = this._sanitizer.bypassSecurityTrustResourceUrl(
-          this.tvShowDetails.trailer
-        );
-      });
+      this.trailer = this._sanitizer.bypassSecurityTrustResourceUrl(
+        this.tvShowDetails.trailer
+      );
+    });
   }
 }
