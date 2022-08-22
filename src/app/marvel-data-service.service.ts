@@ -7,6 +7,9 @@ import { HttpClient } from '@angular/common/http';
 export class MarvelDataServiceService {
   constructor(private http: HttpClient) {}
 
+  characters = null;
+  tvShows = null;
+
   getCharacters() {
     return this.http.get('http://localhost:3000/characters');
   }

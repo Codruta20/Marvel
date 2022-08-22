@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { of } from 'rxjs';
 
 import { MarvelDataServiceService } from '../marvel-data-service.service';
 
@@ -13,6 +14,13 @@ export class TvShowsComponent implements OnInit {
   constructor(private marvelService: MarvelDataServiceService) {}
 
   ngOnInit(): void {
-    this.tvShows$ = this.marvelService.getTvShows();
+    if (!this.marvelService.tvShows) {
+      this.marvelService.getTvShows().subscribe((data) => {
+        this.marvelService.tvShows = data;
+        this.tvShows$ = of(this.marvelService.tvShows);
+      });
+    } else {
+      this.tvShows$ = of(this.marvelService.tvShows);
+    }
   }
 }

@@ -29,11 +29,11 @@ export class CharacterDetailsComponent implements OnInit {
         this.name = params.name;
       });
 
-    this.marvelService.getCharacters().subscribe((apiResponse: any) => {
-      this.characterDetails = apiResponse
-        .filter((character) => character.name == this.name)
-        .pop();
-    });
+    this.characterDetails = this.marvelService.characters
+      .filter((character) => character.name == this.name)
+      .pop();
+
+    console.log(this.marvelService.characters);
 
     this.paragraphTitle = this.characterDetails.description.map(function (x) {
       return x[0];
