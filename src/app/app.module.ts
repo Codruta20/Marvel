@@ -8,6 +8,7 @@ import { CarouselComponent } from './carousel/carousel.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatMenuModule } from '@angular/material/menu';
+import { MatPaginatorModule } from '@angular/material/paginator';
 
 import { CarouselModule } from 'ngx-bootstrap/carousel';
 import { NavbarLogoComponent } from './navbar-logo/navbar-logo.component';
@@ -23,6 +24,7 @@ import { ComicsListComponent } from './comics-list/comics-list.component';
 import { MovieDetailsComponent } from './movie-details/movie-details.component';
 import { TvShowDetailsComponent } from './tv-show-details/tv-show-details.component';
 import { MarvelDataServiceService } from '../app/marvel-data-service.service';
+import { PaginationComponent } from './pagination/pagination.component';
 
 @NgModule({
   declarations: [
@@ -40,6 +42,7 @@ import { MarvelDataServiceService } from '../app/marvel-data-service.service';
     ComicsListComponent,
     MovieDetailsComponent,
     TvShowDetailsComponent,
+    PaginationComponent,
   ],
   imports: [
     BrowserModule,
@@ -50,6 +53,8 @@ import { MarvelDataServiceService } from '../app/marvel-data-service.service';
     CarouselModule,
     AppRoutingModule,
     HttpClientModule,
+    BrowserModule,
+    MatPaginatorModule,
   ],
   providers: [MarvelDataServiceService],
   bootstrap: [AppComponent, CarouselComponent],

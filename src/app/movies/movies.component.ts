@@ -8,7 +8,10 @@ import { HttpClient } from '@angular/common/http';
   styleUrls: ['./movies.component.css'],
 })
 export class MoviesComponent implements OnInit {
-  movies = [];
+  movies: any = [];
+  nrPages: number;
+  arrPages: any = [];
+  removeElement: any;
 
   constructor(private httpClient: HttpClient) {}
 
@@ -16,6 +19,10 @@ export class MoviesComponent implements OnInit {
     this.getMovies()
       .then((data: any) => {
         this.movies = data;
+        this.nrPages = Math.ceil(this.movies.length / 12);
+        this.arrPages = [...Array(this.nrPages + 1).keys()];
+        this.removeElement = this.arrPages.shift();
+        console.log(this.arrPages);
       })
       .catch((error) => console.log(error));
   }
