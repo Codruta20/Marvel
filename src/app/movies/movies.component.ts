@@ -9,9 +9,13 @@ import { HttpClient } from '@angular/common/http';
 })
 export class MoviesComponent implements OnInit {
   movies: any = [];
-  nrPages: number;
-  arrPages: any = [];
+  numberPages: number;
+
+  currentPage = 1;
+  pageSize = 12;
   removeElement: any;
+
+  moviesCollection: any = [];
 
   constructor(private httpClient: HttpClient) {}
 
@@ -19,15 +23,16 @@ export class MoviesComponent implements OnInit {
     this.getMovies()
       .then((data: any) => {
         this.movies = data;
-        this.nrPages = Math.ceil(this.movies.length / 12);
-        this.arrPages = [...Array(this.nrPages + 1).keys()];
-        this.removeElement = this.arrPages.shift();
-        console.log(this.arrPages);
+        this.numberPages = Math.ceil(this.movies.length / 12);
       })
       .catch((error) => console.log(error));
   }
 
   getMovies() {
     return this.httpClient.get('http://localhost:3000/movies').toPromise();
+  }
+
+  changePage(event) {
+    this.currentPage = event;
   }
 }

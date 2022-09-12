@@ -1,7 +1,12 @@
 <div class="container-cards">
   <div class="row row-cols-1 row-cols-md-4 g-4">
     <div
-      *ngFor="let movie of movies"
+      *ngFor="
+        let movie of movies
+          | slice
+            : (currentPage - 1) * pageSize
+            : (currentPage - 1) * pageSize + pageSize
+      "
       routerLink="/movie-details"
       [queryParams]="{ name: movie.name }"
       class="col"
@@ -11,4 +16,16 @@
   </div>
 </div>
 
-<app-pagination [page]="nrPages"></app-pagination>
+<ngb-pagination
+  class="d-flex justify-content-center"
+  [collectionSize]="numberPages * 12"
+  [(page)]="currentPage"
+  [pageSize]="pageSize"
+></ngb-pagination>
+
+<!-- <app-pagination
+  [currentPage]="currentPage"
+  [numberPages]="numberPages"
+  [pageSize]="pageSize"
+  (pageEvent)="changePage($event)"
+></app-pagination> -->

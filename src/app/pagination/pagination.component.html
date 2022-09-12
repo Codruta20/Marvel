@@ -1,4 +1,8 @@
+<!-- TODO: Not working, need to find a solution because of the rendering of the elements -->
 <ngb-pagination
   class="d-flex justify-content-center"
-  [collectionSize]="page * 10"
+  [collectionSize]="numberPages * 10"
+  [(page)]="currentPage"
+  [pageSize]="pageSize"
+  (click)="selectPage(currentPage)"
 ></ngb-pagination>
